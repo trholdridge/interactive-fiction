@@ -1,0 +1,983 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1002">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1002">
+        <command xml:space="preserve">Challenge1</command>
+        <result xml:space="preserve">
+
+
+Challenge1
+An Interactive Fiction by Tulasi Holdridge
+Release 1 / Serial number 200701 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Cliffside house
+A small cottage with stone walls and a warm interior. In the center of the room is a table with a chair. A piece of paper lies on the table. A door leads outside.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1263"></child>
+            <child nodeId="node-1162"></child>
+            <child nodeId="node-1130"></child>
+            <child nodeId="node-1180"></child>
+            <child nodeId="node-1005"></child>
+        </children>
+    </item>
+    <item nodeId="node-1005">
+        <command xml:space="preserve">x table</command>
+        <result xml:space="preserve">It is a simple, sturdy-looking wood table. In the center is a piece of paper with "To-Do List" scrawled at the top.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1275"></child>
+            <child nodeId="node-1304"></child>
+            <child nodeId="node-1006"></child>
+        </children>
+    </item>
+    <item nodeId="node-1006">
+        <command xml:space="preserve">x paper</command>
+        <result xml:space="preserve">A To-Do list with one item: "Buy groceries in the village."
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1007"></child>
+        </children>
+    </item>
+    <item nodeId="node-1007">
+        <command xml:space="preserve">take paper</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1008"></child>
+            <child nodeId="node-1038"></child>
+        </children>
+    </item>
+    <item nodeId="node-1038">
+        <command xml:space="preserve">x chair</command>
+        <result xml:space="preserve">It is a wood chair with a high back.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1039"></child>
+        </children>
+    </item>
+    <item nodeId="node-1039">
+        <command xml:space="preserve">x sneakers</command>
+        <result xml:space="preserve">White shoes with blue laces. They appear to be your size.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1040"></child>
+        </children>
+    </item>
+    <item nodeId="node-1040">
+        <command xml:space="preserve">go outside</command>
+        <result xml:space="preserve">
+Terrace
+This is a simple balcony with a quite low railing. Below, there is a short cliff-like drop, and then a rolling meadow with a path leading south to a village. You could jump down to the meadow fairly easily.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1041"></child>
+        </children>
+    </item>
+    <item nodeId="node-1041">
+        <command xml:space="preserve">jump down</command>
+        <result xml:space="preserve">I only understood you as far as wanting to jump.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1042"></child>
+        </children>
+    </item>
+    <item nodeId="node-1042">
+        <command xml:space="preserve">go down</command>
+        <result xml:space="preserve">The drop looks safe, but you might want to put on some shoes before going out into the world.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1043"></child>
+        </children>
+    </item>
+    <item nodeId="node-1043">
+        <command xml:space="preserve">go inside</command>
+        <result xml:space="preserve">
+Cliffside house
+You can see a table, a chair and a pair of sneakers here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1044"></child>
+        </children>
+    </item>
+    <item nodeId="node-1044">
+        <command xml:space="preserve">wear sneakers</command>
+        <result xml:space="preserve">(first taking the pair of sneakers)
+You put on the pair of sneakers.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1045"></child>
+        </children>
+    </item>
+    <item nodeId="node-1045">
+        <command xml:space="preserve">verbose</command>
+        <result xml:space="preserve">Challenge1 is now in its "verbose" mode, which always gives long descriptions of locations (even if you've been there before).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1046"></child>
+        </children>
+    </item>
+    <item nodeId="node-1046">
+        <command xml:space="preserve">go outsid</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1047"></child>
+        </children>
+    </item>
+    <item nodeId="node-1047">
+        <command xml:space="preserve">go outside</command>
+        <result xml:space="preserve">
+Terrace
+This is a simple balcony with a quite low railing. Below, there is a short cliff-like drop, and then a rolling meadow with a path leading south to a village. You could jump down to the meadow fairly easily.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1048"></child>
+        </children>
+    </item>
+    <item nodeId="node-1048">
+        <command xml:space="preserve">go inside</command>
+        <result xml:space="preserve">
+Cliffside house
+You can see a table and a chair here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1049"></child>
+        </children>
+    </item>
+    <item nodeId="node-1049">
+        <command xml:space="preserve">go outside</command>
+        <result xml:space="preserve">
+Terrace
+This is a simple balcony with a quite low railing. Below, there is a short cliff-like drop, and then a rolling meadow with a path leading south to a village. You could jump down to the meadow fairly easily.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1050"></child>
+        </children>
+    </item>
+    <item nodeId="node-1050">
+        <command xml:space="preserve">go inside</command>
+        <result xml:space="preserve">
+Cliffside house
+You can see a table and a chair here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1051"></child>
+        </children>
+    </item>
+    <item nodeId="node-1051">
+        <command xml:space="preserve">go outside</command>
+        <result xml:space="preserve">
+Terrace
+This is a simple balcony with a quite low railing. Below, there is a short cliff-like drop, and then a rolling meadow with a path leading south to a village. You could jump down to the meadow fairly easily.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1052"></child>
+        </children>
+    </item>
+    <item nodeId="node-1052">
+        <command xml:space="preserve">go down</command>
+        <result xml:space="preserve">The drop looks safe, but you might want to put on some shoes before going out into the world.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1053"></child>
+        </children>
+    </item>
+    <item nodeId="node-1053">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a pair of sneakers (being worn)
+  a paper
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1008">
+        <command xml:space="preserve">take table</command>
+        <result xml:space="preserve">That's fixed in place.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1009"></child>
+        </children>
+    </item>
+    <item nodeId="node-1009">
+        <command xml:space="preserve">take chair</command>
+        <result xml:space="preserve">That's fixed in place.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1010"></child>
+        </children>
+    </item>
+    <item nodeId="node-1010">
+        <command xml:space="preserve">x chair</command>
+        <result xml:space="preserve">It is a wood chair with a high back.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1011"></child>
+        </children>
+    </item>
+    <item nodeId="node-1011">
+        <command xml:space="preserve">x sneakers</command>
+        <result xml:space="preserve">White shoes with blue laces. They appear to be your size.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1012"></child>
+        </children>
+    </item>
+    <item nodeId="node-1012">
+        <command xml:space="preserve">wear sneakers</command>
+        <result xml:space="preserve">(first taking the pair of sneakers)
+You put on the pair of sneakers.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1013"></child>
+        </children>
+    </item>
+    <item nodeId="node-1013">
+        <command xml:space="preserve">undo</command>
+        <result xml:space="preserve">Cliffside house
+[Previous turn undone.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1014"></child>
+        </children>
+    </item>
+    <item nodeId="node-1014">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a paper
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1304">
+        <command xml:space="preserve">x chair</command>
+        <result xml:space="preserve">It is a wood chair with a high back.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1305"></child>
+        </children>
+    </item>
+    <item nodeId="node-1305">
+        <command xml:space="preserve">x paper</command>
+        <result xml:space="preserve">A To-Do list with one item: "Buy groceries in the village."
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1306"></child>
+        </children>
+    </item>
+    <item nodeId="node-1306">
+        <command xml:space="preserve">take paper</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1307"></child>
+        </children>
+    </item>
+    <item nodeId="node-1307">
+        <command xml:space="preserve">go outside</command>
+        <result xml:space="preserve">
+Terrace
+This is a simple balcony with a quite low railing. Below there is a short cliff-like drop, and then a rolling meadow with a path leading south to a village. You could jump down to the meadow fairly easily.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1308"></child>
+        </children>
+    </item>
+    <item nodeId="node-1308">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1309"></child>
+        </children>
+    </item>
+    <item nodeId="node-1309">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+Meadow Path
+A serene but uninteresting meadow. A footpath cuts through it. At the south end of the path is a small village, and at the north end is a short cliff, maybe a couple meters high. On top of the cliff is a cozy cottage.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1310"></child>
+        </children>
+    </item>
+    <item nodeId="node-1310">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1311"></child>
+        </children>
+    </item>
+    <item nodeId="node-1311">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">The cliff is just barely too tall for you to clamber over.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1275">
+        <command xml:space="preserve">take paper</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1276"></child>
+        </children>
+    </item>
+    <item nodeId="node-1276">
+        <command xml:space="preserve">x chair</command>
+        <result xml:space="preserve">It is a wood chair with a high back.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1277"></child>
+        </children>
+    </item>
+    <item nodeId="node-1277">
+        <command xml:space="preserve">go outside</command>
+        <result xml:space="preserve">
+Terrace
+This is a simple balcony with a quite low railing. Below there is a short cliff-like drop, and then a rolling meadow with a path leading south to a village. You could jump down to the meadow fairly easily.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1278"></child>
+        </children>
+    </item>
+    <item nodeId="node-1278">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+Meadow Path
+A serene but uninteresting meadow. A footpath cuts through it. At the south end of the path is a small village, and at the north end is a short cliff, maybe a couple meters high. On top of the cliff is a cozy cottage.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1279"></child>
+        </children>
+    </item>
+    <item nodeId="node-1279">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Village
+A quaint collection of cottages and shops. You can enter the grocery store on the east side, or follow the meadow path north.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1280"></child>
+        </children>
+    </item>
+    <item nodeId="node-1280">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Grocery Store
+Stocked with basic essentials like bread and milk. The main entrance is on the west wall.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1281"></child>
+        </children>
+    </item>
+    <item nodeId="node-1281">
+        <command xml:space="preserve">take bread</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1282"></child>
+        </children>
+    </item>
+    <item nodeId="node-1282">
+        <command xml:space="preserve">take milk</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1283"></child>
+        </children>
+    </item>
+    <item nodeId="node-1283">
+        <command xml:space="preserve">x milk</command>
+        <result xml:space="preserve">You see nothing special about milk.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1284"></child>
+        </children>
+    </item>
+    <item nodeId="node-1284">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Village
+A quaint collection of cottages and shops. You can enter the grocery store on the east side, or follow the meadow path north.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1285"></child>
+        </children>
+    </item>
+    <item nodeId="node-1285">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Meadow Path
+A serene but uninteresting meadow. A footpath cuts through it. At the south end of the path is a small village, and at the north end is a short cliff, maybe a couple meters high. On top of the cliff is a cozy cottage.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1286"></child>
+        </children>
+    </item>
+    <item nodeId="node-1286">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1300"></child>
+        </children>
+    </item>
+    <item nodeId="node-1300">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">The cliff is just barely too tall for you to clamber over.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1180">
+        <command xml:space="preserve">x paper</command>
+        <result xml:space="preserve">A To-Do list with one item: "Buy groceries in the village."
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1181"></child>
+        </children>
+    </item>
+    <item nodeId="node-1181">
+        <command xml:space="preserve">take paper</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1182"></child>
+        </children>
+    </item>
+    <item nodeId="node-1182">
+        <command xml:space="preserve">go outside</command>
+        <result xml:space="preserve">
+Terrace
+This is a simple balcony with a quite low railing. Below and to the south, there is a short cliff-like drop, and then a rolling meadow with a path leading further south to a village. You could jump down to the meadow fairly easily.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1183"></child>
+            <child nodeId="node-1201"></child>
+        </children>
+    </item>
+    <item nodeId="node-1201">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Meadow Path
+A serene but uninteresting meadow. A footpath cuts through it. At the south end of the path is a small village, and at the north end is a short cliff, maybe a couple meters high. On top of the cliff is a cozy cottage.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1206"></child>
+        </children>
+    </item>
+    <item nodeId="node-1206">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">The cliff is just barely too tall for you to clamber up!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1212"></child>
+        </children>
+    </item>
+    <item nodeId="node-1212">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Village
+A quaint collection of cottages and shops. You can enter the grocery store on the east side, or follow the meadow path to the north.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1213"></child>
+        </children>
+    </item>
+    <item nodeId="node-1213">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Grocery Store
+Stocked with basic essentials like bread and milk. There's a side door on the south wall, and the main entrance is on the west side.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1214"></child>
+        </children>
+    </item>
+    <item nodeId="node-1214">
+        <command xml:space="preserve">take bread</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1215"></child>
+        </children>
+    </item>
+    <item nodeId="node-1215">
+        <command xml:space="preserve">take milk</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1216"></child>
+        </children>
+    </item>
+    <item nodeId="node-1216">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Side Alley
+An uninteresting alley. There is a ladder slightly taller than you leaning against a wall.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1217"></child>
+        </children>
+    </item>
+    <item nodeId="node-1217">
+        <command xml:space="preserve">take ladder</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1218"></child>
+        </children>
+    </item>
+    <item nodeId="node-1218">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Grocery Store
+Stocked with basic essentials like bread and milk. There's a side door on the south wall, and the main entrance is on the west side.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1231"></child>
+        </children>
+    </item>
+    <item nodeId="node-1231">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Village
+A quaint collection of cottages and shops. You can enter the grocery store on the east side, or follow the meadow path to the north.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1245"></child>
+        </children>
+    </item>
+    <item nodeId="node-1245">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Meadow Path
+A serene but uninteresting meadow. A footpath cuts through it. At the south end of the path is a small village, and at the north end is a short cliff, maybe a couple meters high. On top of the cliff is a cozy cottage.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1260"></child>
+        </children>
+    </item>
+    <item nodeId="node-1260">
+        <command xml:space="preserve">place ladder against cliff</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1261"></child>
+        </children>
+    </item>
+    <item nodeId="node-1261">
+        <command xml:space="preserve">place ladder on cliff</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1262"></child>
+        </children>
+    </item>
+    <item nodeId="node-1262">
+        <command xml:space="preserve">put ladder on cliff</command>
+        <result xml:space="preserve">Putting things on the cliff would achieve nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1183">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Meadow Path
+A serene but uninteresting meadow. A footpath cuts through it. At the south end of the path is a small village, and at the north end is a short cliff, maybe a couple meters high. On top of the cliff is a cozy cottage.
+
+You can see a cliff here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1184"></child>
+        </children>
+    </item>
+    <item nodeId="node-1184">
+        <command xml:space="preserve">go inside</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1185"></child>
+        </children>
+    </item>
+    <item nodeId="node-1185">
+        <command xml:space="preserve">wear sneakers</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1186"></child>
+        </children>
+    </item>
+    <item nodeId="node-1186">
+        <command xml:space="preserve">go outside</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1187"></child>
+        </children>
+    </item>
+    <item nodeId="node-1187">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1188"></child>
+        </children>
+    </item>
+    <item nodeId="node-1188">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a paper
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1130">
+        <command xml:space="preserve">verbose</command>
+        <result xml:space="preserve">Challenge1 is now in its "verbose" mode, which always gives long descriptions of locations (even if you've been there before).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1131"></child>
+        </children>
+    </item>
+    <item nodeId="node-1131">
+        <command xml:space="preserve">x paper</command>
+        <result xml:space="preserve">A To-Do list with one item: "Buy groceries in the village."
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1132"></child>
+        </children>
+    </item>
+    <item nodeId="node-1132">
+        <command xml:space="preserve">go outside</command>
+        <result xml:space="preserve">
+Terrace
+This is a simple balcony with a quite low railing. Below and to the south, there is a short cliff-like drop, and then a rolling meadow with a path leading further south to a village. You could jump down to the meadow fairly easily.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1133"></child>
+        </children>
+    </item>
+    <item nodeId="node-1133">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">You step over the short railing and drop down into the meadow, landing in a crouch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1134"></child>
+        </children>
+    </item>
+    <item nodeId="node-1134">
+        <command xml:space="preserve">go inside</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1135"></child>
+        </children>
+    </item>
+    <item nodeId="node-1135">
+        <command xml:space="preserve">wear sneakers</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1136"></child>
+        </children>
+    </item>
+    <item nodeId="node-1136">
+        <command xml:space="preserve">go outside</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1137"></child>
+        </children>
+    </item>
+    <item nodeId="node-1137">
+        <command xml:space="preserve">go inside</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1138"></child>
+        </children>
+    </item>
+    <item nodeId="node-1138">
+        <command xml:space="preserve">go outside</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1139"></child>
+        </children>
+    </item>
+    <item nodeId="node-1139">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1150"></child>
+        </children>
+    </item>
+    <item nodeId="node-1150">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1162">
+        <command xml:space="preserve">take paper</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1163"></child>
+        </children>
+    </item>
+    <item nodeId="node-1163">
+        <command xml:space="preserve">wear sneakers</command>
+        <result xml:space="preserve">(first taking the pair of sneakers)
+You put on the pair of sneakers.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1164"></child>
+        </children>
+    </item>
+    <item nodeId="node-1164">
+        <command xml:space="preserve">go outside</command>
+        <result xml:space="preserve">
+Terrace
+This is a simple balcony with a quite low railing. Below and to the south, there is a short cliff-like drop, and then a rolling meadow with a path leading further south to a village. You could jump down to the meadow fairly easily.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1165"></child>
+        </children>
+    </item>
+    <item nodeId="node-1165">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You step over the short railing and drop down into the meadow, landing in a crouch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1166"></child>
+        </children>
+    </item>
+    <item nodeId="node-1166">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1167"></child>
+        </children>
+    </item>
+    <item nodeId="node-1167">
+        <command xml:space="preserve">l</command>
+        <result xml:space="preserve">Meadow Path
+A serene but uninteresting meadow. A footpath cuts through it. At the south end of the path is a small village, and at the north end is a short cliff, maybe a couple meters high. On top of the cliff is a cozy cottage.
+
+This is a simple balcony with a quite low railing. Below and to the south, there is a short cliff-like drop, and then a rolling meadow with a path leading further south to a village. You could jump down to the meadow fairly easily.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1263">
+        <command xml:space="preserve">go outside</command>
+        <result xml:space="preserve">
+Terrace
+This is a simple balcony with a quite low railing. Below there is a short cliff-like drop, and then a rolling meadow with a path leading south to a village. You could jump down to the meadow fairly easily.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1264"></child>
+            <child nodeId="node-1302"></child>
+        </children>
+    </item>
+    <item nodeId="node-1302">
+        <command xml:space="preserve">jump down</command>
+        <result xml:space="preserve">I only understood you as far as wanting to jump.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1264">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+Meadow Path
+A serene but uninteresting meadow. A footpath cuts through it. At the south end of the path is a small village, and at the north end is a short cliff, maybe a couple meters high. On top of the cliff is a cozy cottage.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1265"></child>
+        </children>
+    </item>
+    <item nodeId="node-1265">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Village
+A quaint collection of cottages and shops. You can enter the grocery store on the east side, or follow the meadow path to the north.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1266"></child>
+        </children>
+    </item>
+    <item nodeId="node-1266">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Grocery Store
+Stocked with basic essentials like bread and milk. There's a side door on the south wall, and the main entrance is on the west side.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1267"></child>
+        </children>
+    </item>
+    <item nodeId="node-1267">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Side Alley
+An uninteresting alley. There is a ladder slightly taller than you leaning against a wall.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1268"></child>
+        </children>
+    </item>
+    <item nodeId="node-1268">
+        <command xml:space="preserve">take ladder</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1269"></child>
+        </children>
+    </item>
+    <item nodeId="node-1269">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Grocery Store
+Stocked with basic essentials like bread and milk. There's a side door on the south wall, and the main entrance is on the west side.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1270"></child>
+        </children>
+    </item>
+    <item nodeId="node-1270">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1271"></child>
+        </children>
+    </item>
+    <item nodeId="node-1271">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Village
+A quaint collection of cottages and shops. You can enter the grocery store on the east side, or follow the meadow path to the north.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1272"></child>
+        </children>
+    </item>
+    <item nodeId="node-1272">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Meadow Path
+A serene but uninteresting meadow. A footpath cuts through it. At the south end of the path is a small village, and at the north end is a short cliff, maybe a couple meters high. On top of the cliff is a cozy cottage.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1273"></child>
+        </children>
+    </item>
+    <item nodeId="node-1273">
+        <command xml:space="preserve">put ladder next to cliff</command>
+        <result xml:space="preserve">I didn't understand that sentence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

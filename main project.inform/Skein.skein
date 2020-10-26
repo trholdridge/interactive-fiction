@@ -1,0 +1,2283 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1216">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1216">
+        <command xml:space="preserve">main project</command>
+        <result xml:space="preserve">
+
+
+***disclaimer: this is unfinished in terms of detail, so although its important mechanic works, some rooms (especially later on) might not have much to examine, and the game is overall more linear than I'd like.***
+
+Try Again
+An Interactive Fiction by Tulasi H
+Release 1 / Serial number 200710 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Cell
+This room is depressingly familiar. You've paced across every inch of the cold gray concrete, stood on tiptoes to see out of the barred window, tossed and turned under the thin blanket on your cot. A small camera is embedded above the locked cell door on the north wall.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1421"></child>
+            <child nodeId="node-1234"></child>
+            <child nodeId="node-1228"></child>
+            <child nodeId="node-1222"></child>
+            <child nodeId="node-1217"></child>
+        </children>
+    </item>
+    <item nodeId="node-1217">
+        <command xml:space="preserve">x door</command>
+        <result xml:space="preserve">Imposing, unmarked, and definitely locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1218"></child>
+        </children>
+    </item>
+    <item nodeId="node-1218">
+        <command xml:space="preserve">x cot</command>
+        <result xml:space="preserve">It has a lumpy mattress and a metal frame.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1219"></child>
+        </children>
+    </item>
+    <item nodeId="node-1219">
+        <command xml:space="preserve">x blankets</command>
+        <result xml:space="preserve">Light blue linen. You make the bed neatly every day, for lack of anything better to do.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1220"></child>
+        </children>
+    </item>
+    <item nodeId="node-1220">
+        <command xml:space="preserve">x camera</command>
+        <result xml:space="preserve">The camera is your constant companion. Day in and day out, it faithfully reports your movements to whoever it is that monitors them. When you first got here, you sometimes stared at its blinking blue light all night. Now, you rarely give it a second glance.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1221"></child>
+        </children>
+    </item>
+    <item nodeId="node-1221">
+        <command xml:space="preserve">take camera</command>
+        <result xml:space="preserve">You can't reach it, and anyway it's fixed in place.
+
+Suddenly, the stark white light in the ceiling flickers out. The cell is pitch-black at first, but you can clearly hear the grating sound that your cell door makes when it retracts upward. The cooler air from the hall outside floods in.
+
+Just as your eyes begin to adjust, an eerie red emergency light fades up. The dim light confirms what you heard and felt: the door is open. Above it, the camera blinks back on, and glimmers tauntingly as you stare at it.
+
+You register a blaring alarm sound that must have started sometime in the past minute, but otherwise the facility is deathly still. This is your chance to escape.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1222">
+        <command xml:space="preserve">x cot</command>
+        <result xml:space="preserve">It has a lumpy mattress and a metal frame.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1223"></child>
+        </children>
+    </item>
+    <item nodeId="node-1223">
+        <command xml:space="preserve">x camera</command>
+        <result xml:space="preserve">The camera is your constant companion. Day in and day out, it faithfully reports your movements to whoever it is that monitors them. When you first got here, you sometimes stared at its blinking blue light all night. Now, you rarely give it a second glance.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1224"></child>
+        </children>
+    </item>
+    <item nodeId="node-1224">
+        <command xml:space="preserve">x blanket</command>
+        <result xml:space="preserve">Light blue linen. You make the bed neatly every day, for lack of anything better to do.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1225"></child>
+        </children>
+    </item>
+    <item nodeId="node-1225">
+        <command xml:space="preserve">x window</command>
+        <result xml:space="preserve">It is small and lets in little light.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1226"></child>
+        </children>
+    </item>
+    <item nodeId="node-1226">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">The cell door is locked. It cannot be opened from the inside.
+
+Suddenly, the stark white light in the ceiling flickers out. The cell is pitch-black at first, but you can clearly hear the grating sound that your cell door makes when it retracts upward. The cooler air from the hall outside floods in.
+
+Just as your eyes begin to adjust, an eerie red emergency light fades up. The dim light confirms what you heard and felt: the door is open. Above it, the camera blinks back on, and glimmers tauntingly as you stare at it.
+
+You register a blaring alarm sound that must have started sometime in the past minute, but otherwise the facility is deathly still. This is your chance to escape.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1227"></child>
+        </children>
+    </item>
+    <item nodeId="node-1227">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Hall1
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1228">
+        <command xml:space="preserve">take camera</command>
+        <result xml:space="preserve">You can't reach it, and anyway it's fixed in place.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1229"></child>
+        </children>
+    </item>
+    <item nodeId="node-1229">
+        <command xml:space="preserve">take blanket</command>
+        <result xml:space="preserve">That's fixed in place.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1230"></child>
+        </children>
+    </item>
+    <item nodeId="node-1230">
+        <command xml:space="preserve">take cot</command>
+        <result xml:space="preserve">That's fixed in place.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1231"></child>
+        </children>
+    </item>
+    <item nodeId="node-1231">
+        <command xml:space="preserve">take window</command>
+        <result xml:space="preserve">That's fixed in place.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1232"></child>
+        </children>
+    </item>
+    <item nodeId="node-1232">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Suddenly, the stark white light in the ceiling flickers out. The cell is pitch-black at first, but you can clearly hear the grating sound that your cell door makes when it retracts upward. The cooler air from the hall outside floods in.
+
+Just as your eyes begin to adjust, an eerie red emergency light fades up. The dim light confirms what you heard and felt: the door is open. Above it, the camera blinks back on, and glimmers tauntingly as you stare at it.
+
+You register a blaring alarm sound that must have started sometime in the past minute, but otherwise the facility is deathly still. This is your chance to escape.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1233"></child>
+        </children>
+    </item>
+    <item nodeId="node-1233">
+        <command xml:space="preserve">take door</command>
+        <result xml:space="preserve">That's fixed in place.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1234">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">The cell door is locked. It cannot be opened from the inside.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1288"></child>
+            <child nodeId="node-1283"></child>
+            <child nodeId="node-1275"></child>
+            <child nodeId="node-1235"></child>
+        </children>
+    </item>
+    <item nodeId="node-1235">
+        <command xml:space="preserve">x camera</command>
+        <result xml:space="preserve">The camera is your constant companion. Day in and day out, it faithfully reports your movements to whoever it is that monitors them. When you first got here, you sometimes stared at its blinking blue light all night. Now, you rarely give it a second glance.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1271"></child>
+            <child nodeId="node-1236"></child>
+        </children>
+    </item>
+    <item nodeId="node-1236">
+        <command xml:space="preserve">x door</command>
+        <result xml:space="preserve">Imposing, unmarked, and definitely locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1237"></child>
+        </children>
+    </item>
+    <item nodeId="node-1237">
+        <command xml:space="preserve">x window</command>
+        <result xml:space="preserve">It is small and lets in little light.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1238"></child>
+        </children>
+    </item>
+    <item nodeId="node-1238">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Cell
+This room is depressingly familiar. You've paced across every inch of the cold gray concrete, stood on tiptoes to see out of the barred window, tossed and turned under the thin blanket on your cot. A small camera is embedded above the locked cell door on the north wall.
+
+Suddenly, the stark white light in the ceiling flickers out. The cell is pitch-black at first, but you can clearly hear the grating sound that your cell door makes when it retracts upward. The cooler air from the hall outside floods in.
+
+Just as your eyes begin to adjust, an eerie red emergency light fades up. The dim light confirms what you heard and felt: the door is open. Above it, the camera blinks back on, and glimmers tauntingly as you stare at it.
+
+You register a blaring alarm sound that must have started sometime in the past minute, but otherwise the facility is deathly still. It must be a power outage, or worse. Whatever the case, this is your chance to escape.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1239"></child>
+        </children>
+    </item>
+    <item nodeId="node-1239">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+South Hall
+The hall is flooded with red light and the sound of alarms. Your cell is one of many cells that branches off of it, and every door down the length of the hall is now open. To the south, you know there are branching hallways that lead deeper into this wing of the facility, and to the north is the main corridor that runs through the complex.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1240"></child>
+        </children>
+    </item>
+    <item nodeId="node-1240">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">It would be unwise to stay in this area. Guards will arrive soon to lock it down, as it has the highest concentration of prisoners.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1241"></child>
+        </children>
+    </item>
+    <item nodeId="node-1241">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Intersection
+Here, the narrow central hall of your cell's wing meets a wider corridor. The alarms are still blaring, and the light still dim, but you've been this way before (albeit under close supervision). The corridor runs from east to west, and though you can't see far in either direction, you don't hear or see anyone else.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1242"></child>
+        </children>
+    </item>
+    <item nodeId="node-1242">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Corridor (west)
+A wider hall with an arched ceiling. This is where you pass through regularly to get to other parts of the facility, so despite the lack of light you can navigate it easily. On the north wall is the entrance to a small alcove. After that, corridor curves around slightly, ending at an unassuming door to the northwest.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1243"></child>
+        </children>
+    </item>
+    <item nodeId="node-1243">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Alcove
+This cramped room, if you can even call it that, overlooks the facility's yard. The sun set long ago, but the emergency lights on building exteriors illuminate it plenty. From here, you can see the east and west wings of the building, which face each other. Combined with the south wing, which you are in right now, the whole facility forms a U-shape. The yard is enclosed within this shape, and in its center stands the simple yet elegant control tower.
+
+Leaning against the wall of the alcove is a hatchet, and the archway south of you leads back into the corridor.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1244"></child>
+        </children>
+    </item>
+    <item nodeId="node-1244">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Corridor (west)
+A wider hall with an arched ceiling. This is where you pass through regularly to get to other parts of the facility, so despite the lack of light you can navigate it easily. On the north wall is the entrance to a small alcove. After that, corridor curves around slightly, ending at an unassuming door to the northwest.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1245"></child>
+        </children>
+    </item>
+    <item nodeId="node-1245">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Waiting Room
+You've sat in the neat rows of seats many times, waiting for your shift to start in the room northwest of here. The door is locked, seeing as it's after hours, but unlike most in the facility it is a plain wooden door. No one would go in there voluntarily, so there isn't much danger of break-ins.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1246"></child>
+        </children>
+    </item>
+    <item nodeId="node-1246">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">The wooden door stands in your way
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1247"></child>
+        </children>
+    </item>
+    <item nodeId="node-1247">
+        <command xml:space="preserve">break wooden door with hatchet</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1248"></child>
+        </children>
+    </item>
+    <item nodeId="node-1248">
+        <command xml:space="preserve">break wooden door</command>
+        <result xml:space="preserve">You can't exactly punch through with your bare fist.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1249"></child>
+        </children>
+    </item>
+    <item nodeId="node-1249">
+        <command xml:space="preserve">se</command>
+        <result xml:space="preserve">
+Corridor (west)
+A wider hall with an arched ceiling. This is where you pass through regularly to get to other parts of the facility, so despite the lack of light you can navigate it easily. On the north wall is the entrance to a small alcove. After that, corridor curves around slightly, ending at an unassuming door to the northwest.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1250"></child>
+        </children>
+    </item>
+    <item nodeId="node-1250">
+        <command xml:space="preserve">se</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1251"></child>
+        </children>
+    </item>
+    <item nodeId="node-1251">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Alcove
+This cramped room, if you can even call it that, overlooks the facility's yard. The sun set long ago, but the emergency lights on building exteriors illuminate it plenty. From here, you can see the east and west wings of the building, which face each other. Combined with the south wing, which you are in right now, the whole facility forms a U-shape. The yard is enclosed within this shape, and in its center stands the simple yet elegant control tower.
+
+Leaning against the wall of the alcove is a hatchet, and the archway south of you leads back into the corridor.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1252"></child>
+        </children>
+    </item>
+    <item nodeId="node-1252">
+        <command xml:space="preserve">take hatchet</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1253"></child>
+        </children>
+    </item>
+    <item nodeId="node-1253">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Corridor (west)
+A wider hall with an arched ceiling. This is where you pass through regularly to get to other parts of the facility, so despite the lack of light you can navigate it easily. On the north wall is the entrance to a small alcove. After that, corridor curves around slightly, ending at an unassuming door to the northwest.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1254"></child>
+        </children>
+    </item>
+    <item nodeId="node-1254">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Waiting Room
+You've sat in the neat rows of seats many times, waiting for your shift to start in the room northwest of here. The door is locked, seeing as it's after hours, but unlike most in the facility it is a plain wooden door. No one would go in there voluntarily, so there isn't much danger of break-ins.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1255"></child>
+        </children>
+    </item>
+    <item nodeId="node-1255">
+        <command xml:space="preserve">x door</command>
+        <result xml:space="preserve">A wooden door painted blue, outfitted with a heavy metal bolt. You could probably break it with the right implement.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1256"></child>
+        </children>
+    </item>
+    <item nodeId="node-1256">
+        <command xml:space="preserve">break wooden door with hatchet</command>
+        <result xml:space="preserve">It takes several chops, but slowly you're able to hack through the door (at least, enough to fit through its splintered remains).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1257"></child>
+        </children>
+    </item>
+    <item nodeId="node-1257">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Data Mining
+This is where you've spent most of your out-of-cell time. Sleek white booths are installed around the perimeter of the room. All of them are locked shut; they are kept under tight control during off hours. cameras are embedded in each corner, and blink in the same familiar way as the one in your cell.
+
+A spiral staircase leads up to a wide balcony that rings the room high above. You've only been to the second floor a few times, but you know there's an exit there that guards come and go from. Back on ground level, a heavy-looking door in the north wall marks another exit.
+
+You can see a wooden door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1258"></child>
+        </children>
+    </item>
+    <item nodeId="node-1258">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Data Mining (second floor)
+There are a few empty guard posts here, normally ensuring that the prisoners below stay in line. The second floor is essentially just a balcony, but to the northeast of the part you're on now, a catwalk spans over the center.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1259"></child>
+        </children>
+    </item>
+    <item nodeId="node-1259">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Catwalk (Data Mining)
+You stride quickly across the catwalk to the opposite side of the second floor, not bothering to look down. It continues to the northeast, entering an area outside of the data mining center. You keep following it until you reach a breathtaking view.
+
+Here, the catwalk emerges from the wall of the facility, and connects to a great network of catwalks traversing the space above the central yard. The one you're on runs northeast, straight across the expanse to the facility's central control tower.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1260"></child>
+        </children>
+    </item>
+    <item nodeId="node-1260">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Catwalk (above the yard))
+The catwalk is narrow and creaky. Far below, the yard is deserted, lit by emergency lights on the exterior of the facility and the control tower. Branching off of the catwalk to the west is a small platform. To the northeast is the control tower.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1261"></child>
+        </children>
+    </item>
+    <item nodeId="node-1261">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Turret
+This small balcony is attached precariously to the catwalk, and houses a deadly-looking weapons system. It's turned off, but you've seen it used before when there's any sign of trouble in the yard. When the guards are having a good day, they'll set it to stun. The catwalk meets up with this platform on the east side.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1262"></child>
+        </children>
+    </item>
+    <item nodeId="node-1262">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Catwalk (above the yard))
+The catwalk is narrow and creaky. Far below, the yard is deserted, lit by emergency lights on the exterior of the facility and the control tower. Branching off of the catwalk to the west is a small platform. To the northeast is the control tower.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1263"></child>
+        </children>
+    </item>
+    <item nodeId="node-1263">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Control Tower
+This is it, the literal and metaphorical center of the facility. All polished glass and shiny metal, with catwalks jutting out at odd angles. The heavy door in front of you doesn't budge when you try it, but one seems to be standing slightly ajar a few floors below. No doubt the work of some hasty guard. It looks like there's a route down, if you drop from catwalk to catwalk without falling to your death.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1264"></child>
+        </children>
+    </item>
+    <item nodeId="node-1264">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">You drop to the first catwalk below without much difficulty. The next one takes a bit of a swinging leap, and with the final drop you feel a sharp pain in your ankle. Nevertheless, this might be your best chance to get out, and you step through the door, closing it behind you.
+
+Control Room
+You've never been here before, but you know exactly where you are. Here, near the top of an intimidating tower at the center of the facility, is the control room. Even before you were locked up, these sparkling achievements of technological advancement were known to you; they are admired by many outside of the facility (and even some inside it).
+
+As the door swings shut behind you, all ambient sound is abruptly cut off. The lack of blaring alarms is deafening. In the center of the room, an elaborate panel with neat rows of buttons, switches, and keypads provides more illumination than the emergency lights overhead. Attached to it, like an obscenely large laptop, is a screen wider than your armspan.
+
+On the west and north walls are metal doors.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1265"></child>
+        </children>
+    </item>
+    <item nodeId="node-1265">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Secret Hall
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1266"></child>
+        </children>
+    </item>
+    <item nodeId="node-1266">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1267"></child>
+        </children>
+    </item>
+    <item nodeId="node-1267">
+        <command xml:space="preserve">721</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1268"></child>
+        </children>
+    </item>
+    <item nodeId="node-1268">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1269"></child>
+        </children>
+    </item>
+    <item nodeId="node-1269">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Control Room
+You've never been here before, but you know exactly where you are. Here, near the top of an intimidating tower at the center of the facility, is the control room. Even before you were locked up, these sparkling achievements of technological advancement were known to you; they are admired by many outside of the facility (and even some inside it).
+
+As the door swings shut behind you, all ambient sound is abruptly cut off. The lack of blaring alarms is deafening. In the center of the room, an elaborate panel with neat rows of buttons, switches, and keypads provides more illumination than the emergency lights overhead. Attached to it, like an obscenely large laptop, is a screen wider than your armspan.
+
+On the west and north walls are metal doors.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1270"></child>
+        </children>
+    </item>
+    <item nodeId="node-1270">
+        <command xml:space="preserve">x screen</command>
+        <result xml:space="preserve">You can't access anything without a passcode, which you of course don't know. The "sleep" screen of this overgrown computer is an abstracted map of the facility, scattered with rooms, halls, and doors with little numbers next to them.
+Intriguingly, the yard seems to be criss-crossed with paths that don't correspond to the catwalks.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1271">
+        <command xml:space="preserve">x cot</command>
+        <result xml:space="preserve">It has a lumpy mattress and a metal frame.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1272"></child>
+        </children>
+    </item>
+    <item nodeId="node-1272">
+        <command xml:space="preserve">x window</command>
+        <result xml:space="preserve">It is small and lets in little light.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1273"></child>
+        </children>
+    </item>
+    <item nodeId="node-1273">
+        <command xml:space="preserve">x door</command>
+        <result xml:space="preserve">Imposing, unmarked, and definitely locked.
+
+Suddenly, the stark white light in the ceiling flickers out. The cell is pitch-black at first, but you can clearly hear the grating sound that your cell door makes when it retracts upward. The cooler air from the hall outside floods in.
+
+Just as your eyes begin to adjust, an eerie red emergency light fades up. The dim light confirms what you heard and felt: the door is open. Above it, the camera blinks back on, and glimmers tauntingly as you stare at it.
+
+You register a blaring alarm sound that must have started sometime in the past minute, but otherwise the facility is deathly still. This is your chance to escape.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1274"></child>
+        </children>
+    </item>
+    <item nodeId="node-1274">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Hall1
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1275">
+        <command xml:space="preserve">nn</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1276"></child>
+        </children>
+    </item>
+    <item nodeId="node-1276">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">The cell door is locked. It cannot be opened from the inside.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1277"></child>
+        </children>
+    </item>
+    <item nodeId="node-1277">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">The cell door is locked. It cannot be opened from the inside.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1278"></child>
+        </children>
+    </item>
+    <item nodeId="node-1278">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">The cell door is locked. It cannot be opened from the inside.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1279"></child>
+        </children>
+    </item>
+    <item nodeId="node-1279">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">The cell door is locked. It cannot be opened from the inside.
+
+Suddenly, the stark white light in the ceiling flickers out. The cell is pitch-black at first, but you can clearly hear the grating sound that your cell door makes when it retracts upward. The cooler air from the hall outside floods in.
+
+Just as your eyes begin to adjust, an eerie red emergency light fades up. The dim light confirms what you heard and felt: the door is open. Above it, the camera blinks back on, and glimmers tauntingly as you stare at it.
+
+You register a blaring alarm sound that must have started sometime in the past minute, but otherwise the facility is deathly still. It must be a power outage, or worse. Whatever the case, this is your chance to escape.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1280"></child>
+        </children>
+    </item>
+    <item nodeId="node-1280">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+South Hall
+The hall is flooded with red light and the sound of alarms. Your cell is one of many cells that branches off of it, and every door down the length of the hall is now open. To the south, you know there are branching hallways that lead deeper into this wing of the facility, and to the north is the main corridor that runs through the complex.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1281"></child>
+        </children>
+    </item>
+    <item nodeId="node-1281">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Intersection
+Here, the narrow central hall of your cell's wing meets a wider corridor. The alarms are still blaring, and the light still dim, but you've been this way before (albeit under close supervision). The corridor runs from east to west, and though you can't see far in either direction, you don't hear or see anyone else.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1282"></child>
+        </children>
+    </item>
+    <item nodeId="node-1282">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Corridor (east)
+A wider hall with an arched ceiling. This is where you pass through regularly to get to other parts of the facility, so despite the lack of light you can navigate it easily. On the south wall, there is a small door that you have walked past often but never entered. The corridor continues to the east.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1283">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1284"></child>
+        </children>
+    </item>
+    <item nodeId="node-1284">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Hall2
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1285"></child>
+        </children>
+    </item>
+    <item nodeId="node-1285">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Intersection
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1286"></child>
+        </children>
+    </item>
+    <item nodeId="node-1286">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+CorridorA
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1287"></child>
+        </children>
+    </item>
+    <item nodeId="node-1287">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Dead End
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1288">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">The cell door is locked. It cannot be opened from the inside.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1408"></child>
+            <child nodeId="node-1289"></child>
+        </children>
+    </item>
+    <item nodeId="node-1289">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">The cell door is locked. It cannot be opened from the inside.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1300"></child>
+            <child nodeId="node-1290"></child>
+        </children>
+    </item>
+    <item nodeId="node-1290">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+CorridorB
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1291"></child>
+        </children>
+    </item>
+    <item nodeId="node-1291">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+CorridorC
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1292"></child>
+        </children>
+    </item>
+    <item nodeId="node-1292">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Waiting Room
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1293"></child>
+        </children>
+    </item>
+    <item nodeId="node-1293">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Data Mining
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1294"></child>
+        </children>
+    </item>
+    <item nodeId="node-1294">
+        <command xml:space="preserve">l</command>
+        <result xml:space="preserve">Data Mining
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1295"></child>
+        </children>
+    </item>
+    <item nodeId="node-1295">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Tracks
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1296"></child>
+        </children>
+    </item>
+    <item nodeId="node-1296">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Tracks2
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1297"></child>
+        </children>
+    </item>
+    <item nodeId="node-1297">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Entry
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1298"></child>
+        </children>
+    </item>
+    <item nodeId="node-1298">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Vehicle Bay
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1299"></child>
+        </children>
+    </item>
+    <item nodeId="node-1299">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Data Mining
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1300">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">The cell door is locked. It cannot be opened from the inside.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1301"></child>
+        </children>
+    </item>
+    <item nodeId="node-1301">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">The cell door is locked. It cannot be opened from the inside.
+
+Suddenly, the stark white light in the ceiling flickers out. The cell is pitch-black at first, but you can clearly hear the grating sound that your cell door makes when it retracts upward. The cooler air from the hall outside floods in.
+
+Just as your eyes begin to adjust, an eerie red emergency light fades up. The dim light confirms what you heard and felt: the door is open. Above it, the camera blinks back on, and glimmers tauntingly as you stare at it.
+
+You register a blaring alarm sound that must have started sometime in the past minute, but otherwise the facility is deathly still. It must be a power outage, or worse. Whatever the case, this is your chance to escape.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1302"></child>
+        </children>
+    </item>
+    <item nodeId="node-1302">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+South Hall
+The hall is flooded with red light and the sound of alarms. Your cell is one of many cells that branches off of it, and every door down the length of the hall is now open. To the south, you know there are branching hallways that lead deeper into this wing of the facility, and to the north is the main corridor that runs through the complex.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1303"></child>
+        </children>
+    </item>
+    <item nodeId="node-1303">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Intersection
+Here, the narrow central hall of your cell's wing meets a wider corridor. The alarms are still blaring, and the light still dim, but you've been this way before (albeit under close supervision). The corridor runs from east to west, and though you can't see far in either direction, you don't hear or see anyone else.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1378"></child>
+            <child nodeId="node-1304"></child>
+        </children>
+    </item>
+    <item nodeId="node-1304">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Corridor (west)
+A wider hall with an arched ceiling. This is where you pass through regularly to get to other parts of the facility, so despite the lack of light you can navigate it easily. On the north wall is the entrance to a small alcove. After that, corridor curves around slightly, ending at an unassuming door to the northwest.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1321"></child>
+            <child nodeId="node-1305"></child>
+        </children>
+    </item>
+    <item nodeId="node-1305">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Waiting Room
+You've sat in the neat rows of seats many times, waiting for your shift to start in the room northwest of here. The door is locked, seeing as it's after hours, but unlike most in the facility it is a plain wooden door. No one would go in there voluntarily, so there isn't much danger of break-ins.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1306"></child>
+        </children>
+    </item>
+    <item nodeId="node-1306">
+        <command xml:space="preserve">se</command>
+        <result xml:space="preserve">
+Corridor (west)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1307"></child>
+        </children>
+    </item>
+    <item nodeId="node-1307">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Alcove
+This cramped room, if you can even call it that, overlooks the facility's yard. The sun set long ago, but the emergency lights on building exteriors illuminate it plenty. From here, you can see the east and west wings of the building, which face each other. Combined with the south wing, which you are in right now, the whole facility forms a U-shape. The yard is enclosed within this shape, and in its center stands the simple yet elegant control tower.
+
+Leaning against the wall of the alcove is a hatchet, and the archway south of you leads back into the corridor.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1308"></child>
+        </children>
+    </item>
+    <item nodeId="node-1308">
+        <command xml:space="preserve">take hatchet</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1309"></child>
+        </children>
+    </item>
+    <item nodeId="node-1309">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Corridor (west)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1310"></child>
+        </children>
+    </item>
+    <item nodeId="node-1310">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Waiting Room
+You can see a seats and a wooden door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1311"></child>
+        </children>
+    </item>
+    <item nodeId="node-1311">
+        <command xml:space="preserve">break door with hatchet</command>
+        <result xml:space="preserve">It takes several chops, but slowly you're able to hack through the door (at least, enough to fit through its splintered remains).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1312"></child>
+        </children>
+    </item>
+    <item nodeId="node-1312">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Data Mining
+This is where you've spent most of your out-of-cell time. Sleek white booths are installed around the perimeter of the room. All of them are locked shut; they are kept under tight control during off hours. cameras are embedded in each corner, and blink in the same familiar way as the one in your cell.
+
+A spiral staircase leads up to a wide balcony that rings the room high above. You've only been to the second floor a few times, but you know there's an exit there that guards come and go from. Back on ground level, a heavy-looking door in the north wall marks another exit.
+
+You can see a wooden door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1313"></child>
+        </children>
+    </item>
+    <item nodeId="node-1313">
+        <command xml:space="preserve">x booth</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1314"></child>
+        </children>
+    </item>
+    <item nodeId="node-1314">
+        <command xml:space="preserve">x booths</command>
+        <result xml:space="preserve">In these booths, the prisoners" most important work takes place. Although they are locked right now, their interiors are almost ingrained in your sense memory.
+
+Each is equipped with a hardbacked chair facing a large screen. Like the photobooths from your childhood, but more sinister. From a control room who knows where, you are assigned a task for the next few hours. When you're lucky, you might be categorizing images of road signs or transcribing handwritten diary entries. When you're unlucky... well, it's no good to dwell on the videos that have been etched into your conscience from those screens. You already see them when you try to sleep at night.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1315"></child>
+        </children>
+    </item>
+    <item nodeId="node-1315">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Trackway (south)
+Here, a small platform sits at the side of an indoor tunnel. tracks for the security cars extend north. This system loops around the facility, and guards can access most important rooms from it; right now the tracks are safe to walk on, as the cars only run at certain hours.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1316"></child>
+        </children>
+    </item>
+    <item nodeId="node-1316">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Trackway (north)
+Although the tracks continue past this point, the west wall has another platform, which opens out to where you really want to go.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1317"></child>
+        </children>
+    </item>
+    <item nodeId="node-1317">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Vehicle Bay
+You step tentatively through the doorway. This is a vast covered parking lot, dotted with plug-in spots for cars. Family and friends arrive here when they have scheduled visitations with prisoners. You scan the area, stomach slowly sinking further and further as you confirm the worst: there are no vehicles that you could use to make a getaway.
+
+Then, over the sound of the alarms, you hear an engine roar growing louder. A headlight precedes a motorcycle, and then another, and then another.
+
+"Hey, look!" a voice echoes around the lot, and before you know it the motorcycles are in front of you, three guards are dismounting, and you're being wrestled to the ground.
+
+A pins-and-needles feeling envelopes you, and your vision goes dark.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1318"></child>
+        </children>
+    </item>
+    <item nodeId="node-1318">
+        <command xml:space="preserve">p</command>
+        <result xml:space="preserve">Data Mining
+This is where you've spent most of your out-of-cell time. Sleek white booths are installed around the perimeter of the room. All of them are locked shut; they are kept under tight control during off hours. cameras are embedded in each corner, and blink in the same familiar way as the one in your cell.
+
+A spiral staircase leads up to a wide balcony that rings the room high above. You've only been to the second floor a few times, but you know there's an exit there that guards come and go from. Back on ground level, a heavy-looking door in the north wall marks another exit.
+
+You can see a wooden door here.
+
+That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1319"></child>
+        </children>
+    </item>
+    <item nodeId="node-1319">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1320"></child>
+        </children>
+    </item>
+    <item nodeId="node-1320">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Data Mining
+This is where you've spent most of your out-of-cell time. Sleek white booths are installed around the perimeter of the room. All of them are locked shut; they are kept under tight control during off hours. cameras are embedded in each corner, and blink in the same familiar way as the one in your cell.
+
+A spiral staircase leads up to a wide balcony that rings the room high above. You've only been to the second floor a few times, but you know there's an exit there that guards come and go from. Back on ground level, a heavy-looking door in the north wall marks another exit.
+
+You can see a wooden door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1321">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Alcove
+This cramped room, if you can even call it that, overlooks the facility's yard. The sun set long ago, but the emergency lights on building exteriors illuminate it plenty. From here, you can see the east and west wings of the building, which face each other. Combined with the south wing, which you are in right now, the whole facility forms a U-shape. The yard is enclosed within this shape, and in its center stands the simple yet elegant control tower.
+
+Leaning against the wall of the alcove is a hatchet, and the archway south of you leads back into the corridor.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1322"></child>
+        </children>
+    </item>
+    <item nodeId="node-1322">
+        <command xml:space="preserve">take hatchet</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1323"></child>
+        </children>
+    </item>
+    <item nodeId="node-1323">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1324"></child>
+        </children>
+    </item>
+    <item nodeId="node-1324">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Corridor (west)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1325"></child>
+        </children>
+    </item>
+    <item nodeId="node-1325">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Waiting Room
+You've sat in the neat rows of seats many times, waiting for your shift to start in the room northwest of here. The door is locked, seeing as it's after hours, but unlike most in the facility it is a plain wooden door. No one would go in there voluntarily, so there isn't much danger of break-ins.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1326"></child>
+        </children>
+    </item>
+    <item nodeId="node-1326">
+        <command xml:space="preserve">break door with hatchet</command>
+        <result xml:space="preserve">It takes several chops, but slowly you're able to hack through the door (at least, enough to fit through its splintered remains).
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1327"></child>
+        </children>
+    </item>
+    <item nodeId="node-1327">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Data Mining
+This is where you've spent most of your out-of-cell time. Sleek white booths are installed around the perimeter of the room. All of them are locked shut; they are kept under tight control during off hours. cameras are embedded in each corner, and blink in the same familiar way as the one in your cell.
+
+A spiral staircase leads up to a wide balcony that rings the room high above. You've only been to the second floor a few times, but you know there's an exit there that guards come and go from. Back on ground level, a heavy-looking door in the north wall marks another exit.
+
+You can see a wooden door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1328"></child>
+        </children>
+    </item>
+    <item nodeId="node-1328">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">
+Data Mining (second floor)
+There are a few empty guard posts here, normally ensuring that the prisoners below stay in line. The second floor is essentially just a balcony, but to the northeast of the part you're on now, a catwalk spans over the center.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1329"></child>
+        </children>
+    </item>
+    <item nodeId="node-1329">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">A strange impulse tells you not to go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1330"></child>
+        </children>
+    </item>
+    <item nodeId="node-1330">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Catwalk (Data Mining)
+You stride quickly across the catwalk to the opposite side of the second floor, not bothering to look down. It continues to the northeast, entering an area outside of the data mining center. You keep following it until you reach a breathtaking view.
+
+Here, the catwalk emerges from the wall of the facility, and connects to a great network of catwalks traversing the space above the central yard. The one you're on runs northeast, straight across the expanse to the facility's central control tower.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1331"></child>
+        </children>
+    </item>
+    <item nodeId="node-1331">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Catwalk (above the yard))
+The catwalk is narrow and creaky. Far below, the yard is deserted, lit by emergency lights on the exterior of the facility and the control tower. Branching off of the catwalk to the west is a small platform. To the northeast is the control tower.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1332"></child>
+        </children>
+    </item>
+    <item nodeId="node-1332">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Turret
+This small balcony is attached precariously to the catwalk, and houses a deadly-looking weapons system. It's turned off, but you've seen it used before when there's any sign of trouble in the yard. When the guards are having a good day, they'll set it to stun. The catwalk meets up with this platform on the east side.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1333"></child>
+        </children>
+    </item>
+    <item nodeId="node-1333">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Catwalk (above the yard))
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1334"></child>
+        </children>
+    </item>
+    <item nodeId="node-1334">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Control Tower
+This is it, the literal and metaphorical center of the facility. All polished glass and shiny metal, with catwalks jutting out at odd angles. The heavy door in front of you doesn't budge when you try it, but one seems to be standing slightly ajar a few floors below. No doubt the work of some hasty guard. It looks like there's a route down, if you drop from catwalk to catwalk without falling to your death.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1335"></child>
+        </children>
+    </item>
+    <item nodeId="node-1335">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">You drop to the first catwalk below without much difficulty. The next one takes a bit of a swinging leap, and with the final drop you feel a sharp pain in your ankle. Nevertheless, this might be your best chance to get out, and you step through the door, closing it behind you.
+
+Control Room
+You've never been here before, but you know exactly where you are. Here, near the top of an intimidating tower at the center of the facility, is the control room. Even before you were locked up, these sparkling achievements of technological advancement were known to you; they are admired by many outside of the facility (and even some inside it).
+
+As the door swings shut behind you, all ambient sound is abruptly cut off. The lack of blaring alarms is deafening. In the center of the room, an elaborate panel with neat rows of buttons, switches, and keypads provides more illumination than the emergency lights overhead. Attached to it, like an obscenely large laptop, is a screen wider than your armspan.
+
+On the west and north walls are metal doors.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1336"></child>
+        </children>
+    </item>
+    <item nodeId="node-1336">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">
+Control Tower
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1337"></child>
+        </children>
+    </item>
+    <item nodeId="node-1337">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">You drop to the first catwalk below without much difficulty. The next one takes a bit of a swinging leap, and with the final drop you feel a sharp pain in your ankle. Nevertheless, this might be your best chance to get out, and you step through the door, closing it behind you.
+
+Control Room
+You can see a panel and a screen here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1338"></child>
+        </children>
+    </item>
+    <item nodeId="node-1338">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Staircase
+The top of a short staircase. Further down, you suspect you'll reach the facility chapel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1339"></child>
+        </children>
+    </item>
+    <item nodeId="node-1339">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">A strange impulse tells you not to go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1340"></child>
+        </children>
+    </item>
+    <item nodeId="node-1340">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+Chapel Annex
+I didn't get around to this room haha. Go north.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1341"></child>
+        </children>
+    </item>
+    <item nodeId="node-1341">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Chapel
+You haven't been religious in a long time. During timeslots when most other prisoners are attending services, you angle for the better-paying data mine positions. It never hurts to have some extra credits on hand for unplanned phone calls or dessert at the mess hall.
+
+Today though, despite the simplicity of the building, its underwhelming non-denominational altar, and the red light bathing everything, you feel comforted. You sit in a pew near the front, aware that you might never find your way out of this place. Rage is replaced by a hollow calmness.
+
+You barely notice the main doors to the chapel slam open behind you, and you sit stoically as bright lights strobe over the room and guards stream in, holding down the perimeter. Someone grabs your arms and drags you backwards.
+
+A pins-and-needles feeling envelopes you, and your vision goes dark.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1342"></child>
+        </children>
+    </item>
+    <item nodeId="node-1342">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1343"></child>
+        </children>
+    </item>
+    <item nodeId="node-1343">
+        <command xml:space="preserve">?</command>
+        <result xml:space="preserve">Control Room
+You've never been here before, but you know exactly where you are. Here, near the top of an intimidating tower at the center of the facility, is the control room. Even before you were locked up, these sparkling achievements of technological advancement were known to you; they are admired by many outside of the facility (and even some inside it).
+
+As the door swings shut behind you, all ambient sound is abruptly cut off. The lack of blaring alarms is deafening. In the center of the room, an elaborate panel with neat rows of buttons, switches, and keypads provides more illumination than the emergency lights overhead. Attached to it, like an obscenely large laptop, is a screen wider than your armspan.
+
+On the west and north walls are metal doors.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1344"></child>
+        </children>
+    </item>
+    <item nodeId="node-1344">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">A strange impulse tells you not to go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1345"></child>
+        </children>
+    </item>
+    <item nodeId="node-1345">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Secret Hall
+The hallway winds downward for ages. Eventually, you arrive at the entrance to a tunnel. The walls are rough stone, and it is just tall enough to stand without hunching over. Over the years, names and symbols have been gouged into the walls by bored facility guards. The tunnel continues to the east.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1346"></child>
+        </children>
+    </item>
+    <item nodeId="node-1346">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Secret Tunnel
+For a while longer, you walk east. You don't know where this tunnel leads, or what your fate will be when you get there. Lost in musings, and no longer feeling hurried, you don't see the ladder until you're practically right in front of it. The ladder goes upward.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1347"></child>
+        </children>
+    </item>
+    <item nodeId="node-1347">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Freedom
+You ascend out of the tunnel and are overcome with emotion. This is it. The first air you've breathed outside the prison for years. Above, a few stars poke through gloomy clouds. Behind you, tall concrete walls obscure all of the prison except the control tower, which rises elegantly upward. Ahead, a few sets of barely visible tire tracks cut through scraggly grass, and a grove of trees stands in silhouette in the distance.
+
+Before you take your first step out of the stairway and onto firm ground, you're blinded by a spotlight from above. Squinting, and ears still ringing from the emergency alarms, you see a helicopter hovering overhead, eerily silent. As your eyes adjust, two trucks barrel toward you. Guards leap out, their boots crunching over grass which is sharply illuminated in a circle around you. Gloved hands grab your arms.
+
+A pins-and-needles feeling envelopes you, and your vision goes dark.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1348"></child>
+        </children>
+    </item>
+    <item nodeId="node-1348">
+        <command xml:space="preserve">uh oh</command>
+        <result xml:space="preserve">Data Mining
+This is where you've spent most of your out-of-cell time. Sleek white booths are installed around the perimeter of the room. All of them are locked shut; they are kept under tight control during off hours. cameras are embedded in each corner, and blink in the same familiar way as the one in your cell.
+
+A spiral staircase leads up to a wide balcony that rings the room high above. You've only been to the second floor a few times, but you know there's an exit there that guards come and go from. Back on ground level, a heavy-looking door in the north wall marks another exit.
+
+You can see a wooden door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1349"></child>
+        </children>
+    </item>
+    <item nodeId="node-1349">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Trackway (south)
+Here, a small platform sits at the side of an indoor tunnel. tracks for the security cars extend north. This system loops around the facility, and guards can access most important rooms from it; right now the tracks are safe to walk on, as the cars only run at certain hours.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1350"></child>
+        </children>
+    </item>
+    <item nodeId="node-1350">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Trackway (north)
+Although the tracks continue past this point, the west wall has another platform, which opens out to where you really want to go.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1351"></child>
+        </children>
+    </item>
+    <item nodeId="node-1351">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Vehicle Bay
+You step tentatively through the doorway. This is a vast covered parking lot, dotted with plug-in spots for cars. Family and friends arrive here when they have scheduled visitations with prisoners. You scan the area, stomach slowly sinking further and further as you confirm the worst: there are no vehicles that you could use to make a getaway.
+
+Then, over the sound of the alarms, you hear an engine roar growing louder. A headlight precedes a motorcycle, and then another, and then another.
+
+"Hey, look!" a voice echoes around the lot, and before you know it the motorcycles are in front of you, three guards are dismounting, and you're being wrestled to the ground.
+
+A pins-and-needles feeling envelopes you, and your vision goes dark.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1352"></child>
+        </children>
+    </item>
+    <item nodeId="node-1352">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Intersection
+Here, the narrow central hall of your cell's wing meets a wider corridor. The alarms are still blaring, and the light still dim, but you've been this way before (albeit under close supervision). The corridor runs from east to west, and though you can't see far in either direction, you don't hear or see anyone else.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1353"></child>
+        </children>
+    </item>
+    <item nodeId="node-1353">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">A strange impulse tells you not to go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1354"></child>
+        </children>
+    </item>
+    <item nodeId="node-1354">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Corridor (east)
+A wider hall with an arched ceiling. This is where you pass through regularly to get to other parts of the facility, so despite the lack of light you can navigate it easily. On the south wall, there is a small door that you have walked past often but never entered. The corridor continues to the east.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1355"></child>
+        </children>
+    </item>
+    <item nodeId="node-1355">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Storage Room
+Dark and cluttered. Most of the boxes here are sealed; you probably shouldn't waste time looking through them. A ladder stands in the corner. On top of a pile of junk, there is one open box. The storage room's door is in the north wall.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1356"></child>
+        </children>
+    </item>
+    <item nodeId="node-1356">
+        <command xml:space="preserve">take screwdrivaer</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1357"></child>
+        </children>
+    </item>
+    <item nodeId="node-1357">
+        <command xml:space="preserve">i'</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1358"></child>
+        </children>
+    </item>
+    <item nodeId="node-1358">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying:
+  a screwdriver
+  a hatchet
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1359"></child>
+        </children>
+    </item>
+    <item nodeId="node-1359">
+        <command xml:space="preserve">take ladder</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1360"></child>
+        </children>
+    </item>
+    <item nodeId="node-1360">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Corridor (east)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1361"></child>
+        </children>
+    </item>
+    <item nodeId="node-1361">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Dead End
+The corridor curves around toward the northeast, but it ends in a door which seems firmly shut. Up above your head is a large air vent, part of the facility's ventilation system.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1362"></child>
+        </children>
+    </item>
+    <item nodeId="node-1362">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">You place the ladder in front of the door and climb up to the air vent. It has a metal grate covering it, but you unscrew the corners with your screwdriver and let it clatter to the ground. It's a tight fit, but you squeeze yourself into the vent.
+
+Air Vent
+A cramped space with cold air rushing through. The vent continues to the northeast.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1363"></child>
+        </children>
+    </item>
+    <item nodeId="node-1363">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Air Vent (intersection)
+From here, the vent ends to the northeast and branches off to the south. The grate to the northeast has wide enough bars that you could reach through and unscrew it, and the drop to the floor doesn't look too bad.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1364"></child>
+        </children>
+    </item>
+    <item nodeId="node-1364">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Visitation
+Although it's as cold and empty as the rest of the facility right now, and looks foreboding under the red light, this room is the only one that can be downright joyous at times. Here, you can greet friends and family, even if the pane of polished glass bisecting the room prevents real contact. The pane is dotted with two-way speakers, separated by plastic dividers for a measly amount of privacy.
+
+A door at the southeast, with a check-in machine next to it, leads to the phone bank (which is much more familiar to you than visitation). And although it's normally locked, the door in the glass divider hangs open, giving you access to two more doors on the northeast and northwest walls.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1365"></child>
+        </children>
+    </item>
+    <item nodeId="node-1365">
+        <command xml:space="preserve">se</command>
+        <result xml:space="preserve">
+Phone Room
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1366"></child>
+        </children>
+    </item>
+    <item nodeId="node-1366">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Visitation
+You can see a speakers and a check-in machine here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1367"></child>
+        </children>
+    </item>
+    <item nodeId="node-1367">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Hall3
+Yay more undefined rooms. Go north from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1368"></child>
+        </children>
+    </item>
+    <item nodeId="node-1368">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Power Source
+The lights here are so far overhead and so sparse that the room is barely navigable. It seems very quiet and still, other than the constant alarms, and the various machines that generate power for the facility don't seem to be functioning. It confirms what you thought from the beginning: this must be a power outage. There are doors to the northeast and west.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1369"></child>
+        </children>
+    </item>
+    <item nodeId="node-1369">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">Sorry, but this area is still under construction. Unfortunately, this means that you might not have major choices for a decent section of the game, depending on the path you took to get here. Hopefully it's still enjoyable!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1370"></child>
+        </children>
+    </item>
+    <item nodeId="node-1370">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hallway
+This hallway heads west, toward the center of the facility. It ends at a doorway that leads west. Through it, you can feel a cool breeze.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1371"></child>
+        </children>
+    </item>
+    <item nodeId="node-1371">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Yard (east)
+The facility yard. This is where recreation takes place, though you haven't come through the main entrance for prisoners. Usually, the amount of credits you'd need to spend on rec slots is infuriating, but tonight the breath of fresh air is free. You stand against the facility wall, staying out of the better-lit yard area.
+
+This section is fenced off, but you could definitely climb the chain-link to the west. Beyond that, it would be a clean dash to the main entrance of the facility. Now you just have to step away from the wall.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1372"></child>
+        </children>
+    </item>
+    <item nodeId="node-1372">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Yard (west)
+Heart pounding, you dash away from the relative cover of the wall. You reach the chain-link fence that partitions the yard and start climbing easily enough. You're only halfway up when a floodlight turns on, and you instinctively shield your eyes.
+
+Rapid footsteps thud toward you from several directions. By the time you lower your hand, guards are yanking you down and you land painfully on the ground. Heavy boots fill your field of vision.
+
+A pins-and-needles feeling envelopes you, and your vision goes dark.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1373"></child>
+        </children>
+    </item>
+    <item nodeId="node-1373">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">Memory Bank
+The room is bright and expansive, lined wall-to-wall with server stacks. Its sole occupant, a disheveled late-shift worker, is sitting between the stacks taking a nap. A pleasant chime from the overhead speakers jolts him awake.
+
+"Done already? Good girl," he mutters, patting the nearest machine. He scratches his mostly bald head, then makes his way to a desk in one corner.
+
+Sitting in front of a portly computer, he drags a new file labeled "Power Outage" to the "Simulations" folder. Briefly consulting a to-do list, he searches through the computer with rapid keystrokes, then hits enter with a bit of flair.
+
+"Earthquake simulation initialized," a pleasant robotic voice says over the speakers. The man plods back to the stacks and resumes his nap.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1374"></child>
+        </children>
+    </item>
+    <item nodeId="node-1374">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1375"></child>
+        </children>
+    </item>
+    <item nodeId="node-1375">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1376"></child>
+        </children>
+    </item>
+    <item nodeId="node-1376">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">Please give one of the answers above.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1377"></child>
+        </children>
+    </item>
+    <item nodeId="node-1377">
+        <command xml:space="preserve">um</command>
+        <result xml:space="preserve">Please give one of the answers above.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1378">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Corridor (east)
+A wider hall with an arched ceiling. This is where you pass through regularly to get to other parts of the facility, so despite the lack of light you can navigate it easily. On the south wall, there is a small door that you have walked past often but never entered. The corridor continues to the east.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1407"></child>
+            <child nodeId="node-1379"></child>
+        </children>
+    </item>
+    <item nodeId="node-1379">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Storage Room
+Dark and cluttered. Most of the boxes here are sealed; you probably shouldn't waste time looking through them. A ladder stands in the corner. On top of a pile of junk, there is one open box. The storage room's door is in the north wall.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1380"></child>
+        </children>
+    </item>
+    <item nodeId="node-1380">
+        <command xml:space="preserve">take ladder</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1381"></child>
+        </children>
+    </item>
+    <item nodeId="node-1381">
+        <command xml:space="preserve">take screwdriver</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1382"></child>
+        </children>
+    </item>
+    <item nodeId="node-1382">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Corridor (east)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1383"></child>
+        </children>
+    </item>
+    <item nodeId="node-1383">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Dead End
+The corridor curves around toward the northeast, but it ends in a door which seems firmly shut. Up above your head is a large air vent, part of the facility's ventilation system.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1384"></child>
+        </children>
+    </item>
+    <item nodeId="node-1384">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">You place the ladder in front of the door and climb up to the air vent. It has a metal grate covering it, but you unscrew the corners with your screwdriver and let it clatter to the ground. It's a tight fit, but you squeeze yourself into the vent.
+
+Air Vent
+A cramped space with cold air rushing through. The vent continues to the northeast.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1385"></child>
+        </children>
+    </item>
+    <item nodeId="node-1385">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Air Vent (intersection)
+From here, the vent ends to the northeast and branches off to the south. The grate to the northeast has wide enough bars that you could reach through and unscrew it, and the drop to the floor doesn't look too bad.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1386"></child>
+        </children>
+    </item>
+    <item nodeId="node-1386">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Visitation
+Although it's as cold and empty as the rest of the facility right now, and looks foreboding under the red light, this room is the only one that can be downright joyous at times. Here, you can greet friends and family, even if the pane of polished glass bisecting the room prevents real contact. The pane is dotted with two-way speakers, separated by plastic dividers for a measly amount of privacy.
+
+A door at the southeast, with a check-in machine next to it, leads to the phone bank (which is much more familiar to you than visitation). And although it's normally locked, the door in the glass divider hangs open, giving you access to two more doors on the northeast and northwest walls.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1401"></child>
+            <child nodeId="node-1387"></child>
+        </children>
+    </item>
+    <item nodeId="node-1387">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Guard Room
+Little more than a human-sized box with a TV in the corner that shows the security feeds from the visitation room. Of course, right now the feeds show nothing interesting.
+
+Strangely, a ladder with metal rungs is bolted into the corner, where it descends downward.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1388"></child>
+        </children>
+    </item>
+    <item nodeId="node-1388">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+Tunnel
+You never knew that tunnels existed beneath the facility. The walls are rough stone, and it is just tall enough to stand without hunching over. Over the years, names and symbols have been gouged into the walls by bored facility guards. The tunnel continues to the northwest.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1389"></child>
+        </children>
+    </item>
+    <item nodeId="node-1389">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Tunnel (continued)
+You walk for several minutes, the tunnel occasionally turning slightly. Finally, you reach a door that is slightly open, and leads to the west.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1390"></child>
+        </children>
+    </item>
+    <item nodeId="node-1390">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Control Tower Base
+A circular room with grand door on the north wall. The door you emerged from is a smaller one on the east side, and you realize that the tunnel must have been sloping upward throughout your journey, since this appears to be ground level.
+
+An unoccupied security checkpoint is set up in front of the main door, and a spiral staircase leads upward.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1391"></child>
+        </children>
+    </item>
+    <item nodeId="node-1391">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Control Room
+You've never been here before, but you know exactly where you are. Here, near the top of an intimidating tower at the center of the facility, is the control room. Even before you were locked up, these sparkling achievements of technological advancement were known to you; they are admired by many outside of the facility (and even some inside it).
+
+As the door swings shut behind you, all ambient sound is abruptly cut off. The lack of blaring alarms is deafening. In the center of the room, an elaborate panel with neat rows of buttons, switches, and keypads provides more illumination than the emergency lights overhead. Attached to it, like an obscenely large laptop, is a screen wider than your armspan.
+
+On the west and north walls are metal doors.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1392"></child>
+        </children>
+    </item>
+    <item nodeId="node-1392">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Secret Hall
+The hallway winds downward for ages. Eventually, you arrive at the entrance to a tunnel, similar to the one you took to get to the tower. The tunnel continues to the east.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1393"></child>
+        </children>
+    </item>
+    <item nodeId="node-1393">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Secret Tunnel
+For a while longer, you walk east. You don't know where this tunnel leads, or what your fate will be when you get there. Lost in musings, and no longer feeling hurried, you don't see the ladder until you're practically right in front of it. The ladder goes upward.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1394"></child>
+        </children>
+    </item>
+    <item nodeId="node-1394">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Freedom
+You ascend out of the tunnel and are overcome with emotion. This is it. The first air you've breathed outside the prison for years. Above, a few stars poke through gloomy clouds. Behind you, tall concrete walls obscure all of the prison except the control tower, which rises elegantly upward. Ahead, a few sets of barely visible tire tracks cut through scraggly grass, and a grove of trees stands in silhouette in the distance.
+
+Before you take your first step out of the stairway and onto firm ground, you're blinded by a spotlight from above. Squinting, and ears still ringing from the emergency alarms, you see a helicopter hovering overhead, eerily silent. As your eyes adjust, two trucks barrel toward you. Guards leap out, their boots crunching over grass which is sharply illuminated in a circle around you. Gloved hands grab your arms.
+
+A pins-and-needles feeling envelopes you, and your vision goes dark.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1395"></child>
+        </children>
+    </item>
+    <item nodeId="node-1395">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1396"></child>
+        </children>
+    </item>
+    <item nodeId="node-1396">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Control Room
+You've never been here before, but you know exactly where you are. Here, near the top of an intimidating tower at the center of the facility, is the control room. Even before you were locked up, these sparkling achievements of technological advancement were known to you; they are admired by many outside of the facility (and even some inside it).
+
+As the door swings shut behind you, all ambient sound is abruptly cut off. The lack of blaring alarms is deafening. In the center of the room, an elaborate panel with neat rows of buttons, switches, and keypads provides more illumination than the emergency lights overhead. Attached to it, like an obscenely large laptop, is a screen wider than your armspan.
+
+On the west and north walls are metal doors.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1397"></child>
+        </children>
+    </item>
+    <item nodeId="node-1397">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Staircase
+The top of a short staircase. Further down, you suspect you'll reach the facility chapel.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1398"></child>
+        </children>
+    </item>
+    <item nodeId="node-1398">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+Chapel Annex
+I didn't get around to this room haha. Go north.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1399"></child>
+        </children>
+    </item>
+    <item nodeId="node-1399">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Chapel
+You haven't been religious in a long time. During timeslots when most other prisoners are attending services, you angle for the better-paying data mine positions. It never hurts to have some extra credits on hand for unplanned phone calls or dessert at the mess hall.
+
+Today though, despite the simplicity of the building, its underwhelming non-denominational altar, and the red light bathing everything, you feel comforted. You sit in a pew near the front, aware that you might never find your way out of this place. Rage is replaced by a hollow calmness.
+
+You barely notice the main doors to the chapel slam open behind you, and you sit stoically as bright lights strobe over the room and guards stream in, holding down the perimeter. Someone grabs your arms and drags you backwards.
+
+A pins-and-needles feeling envelopes you, and your vision goes dark.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1400"></child>
+        </children>
+    </item>
+    <item nodeId="node-1400">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Visitation
+Although it's as cold and empty as the rest of the facility right now, and looks foreboding under the red light, this room is the only one that can be downright joyous at times. Here, you can greet friends and family, even if the pane of polished glass bisecting the room prevents real contact. The pane is dotted with two-way speakers, separated by plastic dividers for a measly amount of privacy.
+
+A door at the southeast, with a check-in machine next to it, leads to the phone bank (which is much more familiar to you than visitation). And although it's normally locked, the door in the glass divider hangs open, giving you access to two more doors on the northeast and northwest walls.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1401">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">Power SourceYard (west)
+Hall3
+Yay more undefined rooms. Go north from here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1402"></child>
+        </children>
+    </item>
+    <item nodeId="node-1402">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Power Source
+The lights here are so far overhead and so sparse that the room is barely navigable. It seems very quiet and still, other than the constant alarms, and the various machines that generate power for the facility don't seem to be functioning. It confirms what you thought from the beginning: this must be a power outage. There are doors to the northeast and west.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1403"></child>
+        </children>
+    </item>
+    <item nodeId="node-1403">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">Yard (west)
+Hallway
+This hallway heads west, toward the center of the facility. It ends at a doorway that leads west. Through it, you can feel a cool breeze.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1404"></child>
+        </children>
+    </item>
+    <item nodeId="node-1404">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Yard (east)
+The facility yard. This is where recreation takes place, though you haven't come through the main entrance for prisoners. Usually, the amount of credits you'd need to spend on rec slots is infuriating, but tonight the breath of fresh air is free. You stand against the facility wall, staying out of the better-lit yard area.
+
+This section is fenced off, but you could definitely climb the chain-link to the west. Beyond that, it would be a clean dash to the main entrance of the facility. Now you just have to step away from the wall.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1405"></child>
+        </children>
+    </item>
+    <item nodeId="node-1405">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">Yard (west)
+Yard (west)
+Heart pounding, you dash away from the relative cover of the wall. You reach the chain-link fence that partitions the yard and start climbing easily enough. You're only halfway up when a floodlight turns on, and you instinctively shield your eyes.
+
+Rapid footsteps thud toward you from several directions. By the time you lower your hand, guards are yanking you down and you land painfully on the ground. Heavy boots fill your field of vision.
+
+A pins-and-needles feeling envelopes you, and your vision goes dark.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1406"></child>
+        </children>
+    </item>
+    <item nodeId="node-1406">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Power SourceYard (west)RunoffVisitationPower SourceYard (west)RunoffControl RoomChapel
+Visitation
+Although it's as cold and empty as the rest of the facility right now, and looks foreboding under the red light, this room is the only one that can be downright joyous at times. Here, you can greet friends and family, even if the pane of polished glass bisecting the room prevents real contact. The pane is dotted with two-way speakers, separated by plastic dividers for a measly amount of privacy.
+
+A door at the southeast, with a check-in machine next to it, leads to the phone bank (which is much more familiar to you than visitation). And although it's normally locked, the door in the glass divider hangs open, giving you access to two more doors on the northeast and northwest walls.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1407">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Dead End
+The corridor curves around toward the northeast, but it ends in a door which seems firmly shut. Up above your head is a large air vent, part of the facility's ventilation system.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1408">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1409"></child>
+        </children>
+    </item>
+    <item nodeId="node-1409">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Cell2
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1410"></child>
+        </children>
+    </item>
+    <item nodeId="node-1410">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1411"></child>
+        </children>
+    </item>
+    <item nodeId="node-1411">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Hall2
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1412"></child>
+        </children>
+    </item>
+    <item nodeId="node-1412">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Intersection
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1413"></child>
+        </children>
+    </item>
+    <item nodeId="node-1413">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+CorridorA
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1414"></child>
+        </children>
+    </item>
+    <item nodeId="node-1414">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Intersection
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1415"></child>
+        </children>
+    </item>
+    <item nodeId="node-1415">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+CorridorB
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1416"></child>
+        </children>
+    </item>
+    <item nodeId="node-1416">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+CorridorC
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1417"></child>
+        </children>
+    </item>
+    <item nodeId="node-1417">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1418"></child>
+        </children>
+    </item>
+    <item nodeId="node-1418">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Waiting Room
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1419"></child>
+        </children>
+    </item>
+    <item nodeId="node-1419">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Data Mining
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1420"></child>
+        </children>
+    </item>
+    <item nodeId="node-1420">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Data Mining2
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1421">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Cell
+This room is depressingly familiar. You've paced across every inch of the cool gray concrete, stood on tiptoes to see out of the barred window, tossed and turned under the thin blankets on your cot. Perched above the locked door on the cell's north wall, a small camera is embedded in the wall.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1422"></child>
+        </children>
+    </item>
+    <item nodeId="node-1422">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1423"></child>
+        </children>
+    </item>
+    <item nodeId="node-1423">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1424"></child>
+        </children>
+    </item>
+    <item nodeId="node-1424">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1425"></child>
+        </children>
+    </item>
+    <item nodeId="node-1425">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Suddenly, the stark white light in the ceiling flickers out. The cell is pitch-black at first, but you can clearly hear the grating sound that your cell door makes when it retracts upward. The cooler air from the hall outside floods in.
+Just as your eyes begin to adjust, an eerie red emergency light fades up. The dim light confirms what you heard and felt: the door is open. Above it, the camera blinks back on, and glimmers tauntingly as you stare at it.
+You register the blaring alarm sound that must have started sometime in the past minute, but otherwise the facility is deathly still. This is your chance to escape.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

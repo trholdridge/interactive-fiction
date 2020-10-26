@@ -1,0 +1,333 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1002">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1002">
+        <command xml:space="preserve">Challenge2</command>
+        <result xml:space="preserve">
+
+
+Your new employer has sent you to her personal library as a challenge, and you must escape it. Your only instructions are that, if you try to open the door with the wrong key, the test will be considered an utter failure.
+
+Challenge2
+An Interactive Fiction by Tulasi Holdridge
+Release 1 / Serial number 200702 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Library
+You're in a small library with wooden bookshelves on the north and east walls. There is an arched window on the west wall, and an ornate red door to the south. Nestled at the corner where the bookshelves intersect, a velvety armchair sits behind a low table.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1005"></child>
+            <child nodeId="node-1063"></child>
+        </children>
+    </item>
+    <item nodeId="node-1063">
+        <command xml:space="preserve">x east shelf</command>
+        <result xml:space="preserve">The shelf is filled with ancient books that you would love to read, but most don't look particularly helpful right now. One slim volume catches your eye; it looks to be newer than the others, and simply has the word "DIARY" on its spine.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1064"></child>
+        </children>
+    </item>
+    <item nodeId="node-1064">
+        <command xml:space="preserve">x diary</command>
+        <result xml:space="preserve">A small book, out of place among the heavier tomes around it. You'd have to take the diary to discern anything about its contents.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1065"></child>
+        </children>
+    </item>
+    <item nodeId="node-1065">
+        <command xml:space="preserve">take diary</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1066"></child>
+        </children>
+    </item>
+    <item nodeId="node-1066">
+        <command xml:space="preserve">x diary</command>
+        <result xml:space="preserve">You open the book, but it appears blank except for one page near the back. However, instead of words, there is an incomprehensible string of letters: "llg tswwfqfo papn iiowen psnj rgox llir."
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1067"></child>
+        </children>
+    </item>
+    <item nodeId="node-1067">
+        <command xml:space="preserve">x windo</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1068"></child>
+        </children>
+    </item>
+    <item nodeId="node-1068">
+        <command xml:space="preserve">x window</command>
+        <result xml:space="preserve">The window seems to sealed shut, but on the sill is a small scrap of paper that you hadn't noticed at first glance.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1069"></child>
+        </children>
+    </item>
+    <item nodeId="node-1069">
+        <command xml:space="preserve">take paper</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1070"></child>
+        </children>
+    </item>
+    <item nodeId="node-1070">
+        <command xml:space="preserve">take scrap of paper</command>
+        <result xml:space="preserve">You already have that.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1079"></child>
+        </children>
+    </item>
+    <item nodeId="node-1079">
+        <command xml:space="preserve">x scrap of paper</command>
+        <result xml:space="preserve">The words "decrypt Vigenere key SECRET" are scrawled on the paper in hasty handwriting.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1089"></child>
+        </children>
+    </item>
+    <item nodeId="node-1089">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1090"></child>
+        </children>
+    </item>
+    <item nodeId="node-1090">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1091"></child>
+        </children>
+    </item>
+    <item nodeId="node-1091">
+        <command xml:space="preserve">x codebook</command>
+        <result xml:space="preserve">A thick book with embossed writing on its spine that reads "The complete guide to ciphers and codes." You'd have to take the codebook to learn anything about its contents.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1092"></child>
+        </children>
+    </item>
+    <item nodeId="node-1092">
+        <command xml:space="preserve">take codebook</command>
+        <result xml:space="preserve">You begin to pull the codebook toward you. With an abrupt crunching sound followed by a rapid clicking, the bookshelf slides to the left, toward the west wall. It only opens a couple feet, but the dark space it reveals seems large enough to fit through without too much trouble.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1093"></child>
+        </children>
+    </item>
+    <item nodeId="node-1093">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Secret Office
+This room is mostly empty, and lit by an eerie purple light that makes its white walls glow. In the middle is a desk, and atop it is a heavy-looking trunk.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1094"></child>
+        </children>
+    </item>
+    <item nodeId="node-1094">
+        <command xml:space="preserve">take codebook</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1095"></child>
+        </children>
+    </item>
+    <item nodeId="node-1095">
+        <command xml:space="preserve">x codebook</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1128"></child>
+        </children>
+    </item>
+    <item nodeId="node-1128">
+        <command xml:space="preserve">x desk</command>
+        <result xml:space="preserve">You see nothing special about the desk.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1129"></child>
+        </children>
+    </item>
+    <item nodeId="node-1129">
+        <command xml:space="preserve">x trunk</command>
+        <result xml:space="preserve">A substantial trunk made of wood and iron.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1130"></child>
+        </children>
+    </item>
+    <item nodeId="node-1130">
+        <command xml:space="preserve">open trunk</command>
+        <result xml:space="preserve">Inside are two keys, one pink and one purple.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1150"></child>
+        </children>
+    </item>
+    <item nodeId="node-1150">
+        <command xml:space="preserve">take keys</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1151"></child>
+        </children>
+    </item>
+    <item nodeId="node-1151">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Library
+You're in a small library with wooden bookshelves on the north and east walls. There is an arched window on the west wall, and an ornate red door to the south. Nestled at the corner where the bookshelves intersect, a velvety armchair sits behind a low table.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1152"></child>
+        </children>
+    </item>
+    <item nodeId="node-1152">
+        <command xml:space="preserve">open drawer</command>
+        <result xml:space="preserve">You open the drawer, revealing a map.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1153"></child>
+        </children>
+    </item>
+    <item nodeId="node-1153">
+        <command xml:space="preserve">take map</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1154"></child>
+        </children>
+    </item>
+    <item nodeId="node-1154">
+        <command xml:space="preserve">x map</command>
+        <result xml:space="preserve">A simple map of the world. It uses the Robinson projection, if that sort of thing matters to you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1155"></child>
+        </children>
+    </item>
+    <item nodeId="node-1155">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Secret Office
+This room is mostly empty, and lit by an eerie purple light that makes its white walls glow. In the middle is a desk, and atop it is a heavy-looking trunk.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1156"></child>
+        </children>
+    </item>
+    <item nodeId="node-1156">
+        <command xml:space="preserve">x map</command>
+        <result xml:space="preserve">Under the office's UV light, you can see that certain cities are circled on the map: Nashville, Aswan, Taguig, Indore, Oslo, Nairobi.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1005">
+        <command xml:space="preserve">take armchair</command>
+        <result xml:space="preserve">That's fixed in place.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1008"></child>
+        </children>
+    </item>
+    <item nodeId="node-1008">
+        <command xml:space="preserve">x armchair</command>
+        <result xml:space="preserve">A well-loved chair with dusky pink upholstery.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1009"></child>
+        </children>
+    </item>
+    <item nodeId="node-1009">
+        <command xml:space="preserve">x window</command>
+        <result xml:space="preserve">The window seems to sealed shut, but on the sill is a small scrap of paper that you hadn't noticed at first glance.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1010"></child>
+        </children>
+    </item>
+    <item nodeId="node-1010">
+        <command xml:space="preserve">x east shelf</command>
+        <result xml:space="preserve">The shelf is filled with ancient books that you would love to read, but most don't look particularly helpful right now. One slim volume catches your eye; it looks to be newer than the others, and simply has the word "DIARY" on its spine.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1011"></child>
+        </children>
+    </item>
+    <item nodeId="node-1011">
+        <command xml:space="preserve">take diary</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1012"></child>
+        </children>
+    </item>
+    <item nodeId="node-1012">
+        <command xml:space="preserve">x north shelf</command>
+        <result xml:space="preserve">A lifetime's worth of knowledge sits on this shelf, and you can't waste time looking through every book. If you want to find a particular book, you'll have to examine it directly.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1013"></child>
+        </children>
+    </item>
+    <item nodeId="node-1013">
+        <command xml:space="preserve">x table</command>
+        <result xml:space="preserve">A low table with a mahogany lacquer and curved legs. Tucked under the tabletop is a closed drawer.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1014"></child>
+        </children>
+    </item>
+    <item nodeId="node-1014">
+        <command xml:space="preserve">open drawer</command>
+        <result xml:space="preserve">You open the drawer, revealing a map.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

@@ -1,0 +1,57 @@
+! Blurb file created by Inform build 6M62
+
+status "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/CblorbModel.html" "/Users/tulasiholdridge/Documents/*Inform 7/main project.inform/Build/StatusCblorb.html"
+
+
+! Identification
+
+project folder "/Users/tulasiholdridge/Documents/*Inform 7/main project.inform"
+release to "/Users/tulasiholdridge/Documents/*Inform 7/main project.materials/Release"
+
+! Blorb instructions
+
+storyfile leafname "Try Again.gblorb"
+storyfile "/Users/tulasiholdridge/Documents/*Inform 7/main project.inform/Build/output.ulx" include
+ifiction "/Users/tulasiholdridge/Documents/*Inform 7/main project.inform/Metadata.iFiction" include
+cover "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
+picture 1 "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
+release file "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
+release file "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Small Cover.jpg"
+
+! Placeholder variables
+
+placeholder [IFID] = "9AFB0646-B0E5-47A5-BA84-80C4843A160D"
+placeholder [RELEASE] = "1"
+placeholder [YEAR] = "2020"
+placeholder [TITLE] = "Try Again"
+placeholder [AUTHOR] = "Tulasi H"
+placeholder [BLURB] = "A work of interactive fiction."
+
+! Other material to release
+
+
+! Website instructions
+
+placeholder [ENCODEDSTORYFILE] = "Try Again.gblorb.js"
+template path "/Users/tulasiholdridge/Documents/*Inform 7/main project.materials/Templates"
+template path "/Users/tulasiholdridge/Library/Inform/Templates"
+template path "/Applications/Inform.app/Contents/Resources/Internal/Templates"
+placeholder [INTERPRETERSCRIPTS] = " "
+interpreter "Quixe" "g"
+base64 "/Users/tulasiholdridge/Documents/*Inform 7/main project.inform/Build/output.ulx" to "/Users/tulasiholdridge/Documents/*Inform 7/main project.materials/Release/interpreter/Try Again.gblorb.js"
+
+! Website instructions
+
+template path "/Users/tulasiholdridge/Documents/*Inform 7/main project.materials/Templates"
+template path "/Users/tulasiholdridge/Library/Inform/Templates"
+template path "/Applications/Inform.app/Contents/Resources/Internal/Templates"
+css
+website "Standard"
+status instruction ||&nbsp;<a href="source:story.ni#line6"><img border=0 src=inform:/doc_images/Reveal.tif></a>||
+status alternative ||Using 'Release along with cover art', to provide something more distinctive than the default artwork above&nbsp;<a href=inform:/doc403.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with a file of "Such-and-Such" called "whatever.pdf"', perhaps to add a manual, or a welcoming note&nbsp;<a href=inform:/doc401.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the source text'&nbsp;<a href=inform:/doc412.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with a solution'&nbsp;<a href=inform:/doc411.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the library card'&nbsp;<a href=inform:/doc412.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the introductory booklet'&nbsp;<a href=inform:/doc404.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the introductory postcard'&nbsp;<a href=inform:/doc404.html><img border=0 src=inform:/doc_images/help.png></a>||

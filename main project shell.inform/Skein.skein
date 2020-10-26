@@ -1,0 +1,1155 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1138">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1138">
+        <command xml:space="preserve">main project shell</command>
+        <result xml:space="preserve">
+
+
+main project shell
+An Interactive Fiction by Tulasi Holdridge
+Release 1 / Serial number 200707 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Cell
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1239"></child>
+            <child nodeId="node-1139"></child>
+        </children>
+    </item>
+    <item nodeId="node-1139">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Choice1
+Now at choice 1. Children: Choice2a and Choice2b. Parent: nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1231"></child>
+            <child nodeId="node-1169"></child>
+            <child nodeId="node-1140"></child>
+        </children>
+    </item>
+    <item nodeId="node-1140">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Choice2b
+Now at choice 2b. Children: Choice3a and Choice3b. Parent: Choice1.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1156"></child>
+            <child nodeId="node-1141"></child>
+        </children>
+    </item>
+    <item nodeId="node-1141">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Choice3b
+Now at choice 3b. Children: Ending4 and Ending5. Parent: Choice2b.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1142"></child>
+        </children>
+    </item>
+    <item nodeId="node-1142">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Ending5
+You have reached ending 5.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1143"></child>
+        </children>
+    </item>
+    <item nodeId="node-1143">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice3b
+Now at choice 3b. Children: Ending4 and Ending5. Parent: Choice2b.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1144"></child>
+        </children>
+    </item>
+    <item nodeId="node-1144">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Ending5
+You have reached ending 5.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1145"></child>
+        </children>
+    </item>
+    <item nodeId="node-1145">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice3b
+Now at choice 3b. Children: Ending4 and Ending5. Parent: Choice2b.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1146"></child>
+        </children>
+    </item>
+    <item nodeId="node-1146">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Ending4
+You have reached ending 4.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1147"></child>
+        </children>
+    </item>
+    <item nodeId="node-1147">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice2b
+Now at choice 2b. Children: Choice3a and Choice3b. Parent: Choice1.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1148"></child>
+        </children>
+    </item>
+    <item nodeId="node-1148">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Choice3a
+Now at choice 3a. Children: Ending2 and Ending3. Parent: Choice2b.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1149"></child>
+        </children>
+    </item>
+    <item nodeId="node-1149">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Ending2
+You have reached ending 2.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1150"></child>
+        </children>
+    </item>
+    <item nodeId="node-1150">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice3a
+Now at choice 3a. Children: Ending2 and Ending3. Parent: Choice2b.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1151"></child>
+        </children>
+    </item>
+    <item nodeId="node-1151">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Ending3
+You have reached ending 3.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1152"></child>
+        </children>
+    </item>
+    <item nodeId="node-1152">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice1
+Now at choice 1. Children: Choice2a and Choice2b. Parent: nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1153"></child>
+        </children>
+    </item>
+    <item nodeId="node-1153">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Choice2a
+Now at choice 2a. Children: Ending1. Parent: Choice1.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1154"></child>
+        </children>
+    </item>
+    <item nodeId="node-1154">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Ending1
+You have reached ending 1.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1155"></child>
+        </children>
+    </item>
+    <item nodeId="node-1155">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice1
+Now at choice 1. Children: Choice2a and Choice2b. Parent: nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1156">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Choice3a
+Now at choice 3a. Children: Ending2 and Ending3. Parent: Choice2b.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1157"></child>
+        </children>
+    </item>
+    <item nodeId="node-1157">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Ending2
+You have reached ending 2.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1158"></child>
+        </children>
+    </item>
+    <item nodeId="node-1158">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice3a
+Now at choice 3a. Children: Ending2 and Ending3. Parent: Choice2b.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1159"></child>
+        </children>
+    </item>
+    <item nodeId="node-1159">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Ending3
+You have reached ending 3.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1160"></child>
+        </children>
+    </item>
+    <item nodeId="node-1160">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice2b
+Now at choice 2b. Children: Choice3a and Choice3b. Parent: Choice1.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1161"></child>
+        </children>
+    </item>
+    <item nodeId="node-1161">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Choice3b
+Now at choice 3b. Children: Ending4 and Ending5. Parent: Choice2b.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1162"></child>
+        </children>
+    </item>
+    <item nodeId="node-1162">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Ending4
+You have reached ending 4.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1163"></child>
+        </children>
+    </item>
+    <item nodeId="node-1163">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice3b
+Now at choice 3b. Children: Ending4 and Ending5. Parent: Choice2b.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1164"></child>
+        </children>
+    </item>
+    <item nodeId="node-1164">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Ending5
+You have reached ending 5.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1165"></child>
+        </children>
+    </item>
+    <item nodeId="node-1165">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice1
+Now at choice 1. Children: Choice2a and Choice2b. Parent: nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1166"></child>
+        </children>
+    </item>
+    <item nodeId="node-1166">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Choice2a
+Now at choice 2a. Children: Ending1. Parent: Choice1.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1167"></child>
+        </children>
+    </item>
+    <item nodeId="node-1167">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Ending1
+You have reached ending 1.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1168"></child>
+        </children>
+    </item>
+    <item nodeId="node-1168">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice1
+Now at choice 1. Children: Choice2a and Choice2b. Parent: nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1169">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Choice2a
+Now at choice 2a. Children: Ending1 and Choice3a. Parent: Choice1.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1223"></child>
+            <child nodeId="node-1218"></child>
+            <child nodeId="node-1184"></child>
+            <child nodeId="node-1171"></child>
+            <child nodeId="node-1170"></child>
+        </children>
+    </item>
+    <item nodeId="node-1170">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">
+Choice1
+Now at choice 1.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1171">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Choice3a
+Now at choice 3a. Children: Ending2 and Ending3. Parent: Choice2a.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1172"></child>
+        </children>
+    </item>
+    <item nodeId="node-1172">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Ending3
+You have reached ending 3.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1173"></child>
+        </children>
+    </item>
+    <item nodeId="node-1173">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice3a
+Now at choice 3a. Children: Ending2 and Ending3. Parent: Choice2a.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1174"></child>
+        </children>
+    </item>
+    <item nodeId="node-1174">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Ending2
+You have reached ending 2.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1175"></child>
+        </children>
+    </item>
+    <item nodeId="node-1175">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice2a
+Now at choice 2a. Children: Ending1 and Choice3a. Parent: Choice1.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1176"></child>
+        </children>
+    </item>
+    <item nodeId="node-1176">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Ending1
+You have reached ending 1.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1177"></child>
+        </children>
+    </item>
+    <item nodeId="node-1177">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice1
+Now at choice 1. Children: Choice2a and Choice2b. Parent: nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1178"></child>
+        </children>
+    </item>
+    <item nodeId="node-1178">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Choice2b
+Now at choice 2b. Children: Choice3b. Parent: Choice1.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1179"></child>
+        </children>
+    </item>
+    <item nodeId="node-1179">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Choice3b
+Now at choice 3b. Children: Ending4 and Ending5. Parent: Choice2b.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1180"></child>
+        </children>
+    </item>
+    <item nodeId="node-1180">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Ending4
+You have reached ending 4.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1181"></child>
+        </children>
+    </item>
+    <item nodeId="node-1181">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice3b
+Now at choice 3b. Children: Ending4 and Ending5. Parent: Choice2b.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1182"></child>
+        </children>
+    </item>
+    <item nodeId="node-1182">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Ending5
+You have reached ending 5.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1183"></child>
+        </children>
+    </item>
+    <item nodeId="node-1183">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice1
+Now at choice 1. Children: Choice2a and Choice2b. Parent: nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1184">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Ending1
+You have reached ending 1.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1214"></child>
+            <child nodeId="node-1190"></child>
+            <child nodeId="node-1185"></child>
+        </children>
+    </item>
+    <item nodeId="node-1185">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">
+Choice2a
+Now at choice 2a. Ending1 and Choice3a.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1186"></child>
+        </children>
+    </item>
+    <item nodeId="node-1186">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Choice3a
+Now at choice 3a. Ending2 and Ending3.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1187"></child>
+        </children>
+    </item>
+    <item nodeId="node-1187">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Ending2
+You have reached ending 2.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1188"></child>
+        </children>
+    </item>
+    <item nodeId="node-1188">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">
+Choice3a
+Now at choice 3a. Ending2 and Ending3.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1189"></child>
+        </children>
+    </item>
+    <item nodeId="node-1189">
+        <command xml:space="preserve">se</command>
+        <result xml:space="preserve">
+Choice2a
+Now at choice 2a. Ending1 and Choice3a.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1190">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice2a
+Now at choice 2a. Children: Ending1 and Choice3a. Parent: Choice1.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1208"></child>
+            <child nodeId="node-1207"></child>
+            <child nodeId="node-1192"></child>
+            <child nodeId="node-1191"></child>
+        </children>
+    </item>
+    <item nodeId="node-1191">
+        <command xml:space="preserve">parent of Choice3a</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1192">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Choice3a
+Now at choice 3a. Children: Ending2 and Ending3. Parent: Choice2a.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1203"></child>
+            <child nodeId="node-1193"></child>
+        </children>
+    </item>
+    <item nodeId="node-1193">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Ending3
+You have reached ending 3.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1194"></child>
+        </children>
+    </item>
+    <item nodeId="node-1194">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice3a
+Now at choice 3a. Children: Ending2 and Ending3. Parent: Choice2a.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1195"></child>
+        </children>
+    </item>
+    <item nodeId="node-1195">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Ending2
+You have reached ending 2.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1196"></child>
+        </children>
+    </item>
+    <item nodeId="node-1196">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice1
+Now at choice 1. Children: Choice2a and Choice2b. Parent: nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1197"></child>
+        </children>
+    </item>
+    <item nodeId="node-1197">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Choice2b
+Now at choice 2b. Children: Choice3b. Parent: Choice1.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1198"></child>
+        </children>
+    </item>
+    <item nodeId="node-1198">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Choice3b
+Now at choice 3b. Children: Ending4 and Ending5. Parent: Choice2b.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1199"></child>
+        </children>
+    </item>
+    <item nodeId="node-1199">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Ending4
+You have reached ending 4.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1200"></child>
+        </children>
+    </item>
+    <item nodeId="node-1200">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice3b
+Now at choice 3b. Children: Ending4 and Ending5. Parent: Choice2b.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1201"></child>
+        </children>
+    </item>
+    <item nodeId="node-1201">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Ending5
+You have reached ending 5.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1202"></child>
+        </children>
+    </item>
+    <item nodeId="node-1202">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice1
+Now at choice 1. Children: Choice2a and Choice2b. Parent: nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1203">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Ending2
+You have reached ending 2.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1204"></child>
+        </children>
+    </item>
+    <item nodeId="node-1204">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice3a
+Now at choice 3a. Children: Ending2 and Ending3. Parent: Choice2a.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1205"></child>
+        </children>
+    </item>
+    <item nodeId="node-1205">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Ending3
+You have reached ending 3.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1206"></child>
+        </children>
+    </item>
+    <item nodeId="node-1206">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice1
+Now at choice 1. Children: Choice2a and Choice2b. Parent: nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1207">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">Sorry, you've made this choice before.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1208">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Choice1
+Now at choice 1. Children: Choice2a and Choice2b. Parent: nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1209"></child>
+        </children>
+    </item>
+    <item nodeId="node-1209">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Choice2b
+Now at choice 2b. Children: Choice3b. Parent: Choice1.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1210"></child>
+        </children>
+    </item>
+    <item nodeId="node-1210">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Choice3b
+Now at choice 3b. Children: Ending4 and Ending5. Parent: Choice2b.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1211"></child>
+        </children>
+    </item>
+    <item nodeId="node-1211">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Ending4
+You have reached ending 4.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1212"></child>
+        </children>
+    </item>
+    <item nodeId="node-1212">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">
+Choice3b
+Now at choice 3b. Children: Ending4 and Ending5. Parent: Choice2b.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1213"></child>
+        </children>
+    </item>
+    <item nodeId="node-1213">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Ending5
+You have reached ending 5.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1214">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1215"></child>
+        </children>
+    </item>
+    <item nodeId="node-1215">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1216"></child>
+        </children>
+    </item>
+    <item nodeId="node-1216">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1217"></child>
+        </children>
+    </item>
+    <item nodeId="node-1217">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1218">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1219"></child>
+        </children>
+    </item>
+    <item nodeId="node-1219">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Ending1
+You have reached ending 1.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1220"></child>
+        </children>
+    </item>
+    <item nodeId="node-1220">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Cell
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1221"></child>
+        </children>
+    </item>
+    <item nodeId="node-1221">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Choice1
+Now at choice 1. Choice2a and Choice2b.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1222"></child>
+        </children>
+    </item>
+    <item nodeId="node-1222">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Choice2b
+Now at choice 2b. Choice3b.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1223">
+        <command xml:space="preserve">NE</command>
+        <result xml:space="preserve">
+Ending1
+You have reached ending 1.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1224"></child>
+        </children>
+    </item>
+    <item nodeId="node-1224">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice2a
+Now at choice 2a. Children: Ending1 and Choice3a. Parent: Choice1.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1225"></child>
+        </children>
+    </item>
+    <item nodeId="node-1225">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Choice3a
+Now at choice 3a. Children: Ending2 and Ending3. Parent: Choice2a.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1226"></child>
+        </children>
+    </item>
+    <item nodeId="node-1226">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1227"></child>
+        </children>
+    </item>
+    <item nodeId="node-1227">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Ending2
+You have reached ending 2.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1228"></child>
+        </children>
+    </item>
+    <item nodeId="node-1228">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice3a
+Now at choice 3a. Children: Ending2 and Ending3. Parent: Choice2a.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1229"></child>
+        </children>
+    </item>
+    <item nodeId="node-1229">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Ending3
+You have reached ending 3.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1230"></child>
+        </children>
+    </item>
+    <item nodeId="node-1230">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Choice1
+Now at choice 1. Children: Choice2a and Choice2b. Parent: nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1231">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1236"></child>
+            <child nodeId="node-1232"></child>
+        </children>
+    </item>
+    <item nodeId="node-1232">
+        <command xml:space="preserve">nw</command>
+        <result xml:space="preserve">
+Choice2b
+Now at choice 2b. Choice3a and Choice3b.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1233"></child>
+        </children>
+    </item>
+    <item nodeId="node-1233">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Choice3a
+Now at choice 3a. Ending2 and Ending3.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1234"></child>
+        </children>
+    </item>
+    <item nodeId="node-1234">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Ending2
+You have reached ending 2.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1235"></child>
+        </children>
+    </item>
+    <item nodeId="node-1235">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Cell
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1236">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Choice2a
+Now at choice 2a. Ending1 and Choice3a.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1237"></child>
+        </children>
+    </item>
+    <item nodeId="node-1237">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Ending1
+You have reached ending 1.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1238"></child>
+        </children>
+    </item>
+    <item nodeId="node-1238">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Cell
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1239">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1240"></child>
+        </children>
+    </item>
+    <item nodeId="node-1240">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Choice1
+Now at choice 1. Choice2a and Choice2b.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1241"></child>
+        </children>
+    </item>
+    <item nodeId="node-1241">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1242"></child>
+        </children>
+    </item>
+    <item nodeId="node-1242">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Choice2a
+Now at choice 2a. Ending1 and Choice3a.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1243"></child>
+        </children>
+    </item>
+    <item nodeId="node-1243">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Ending1
+You have reached ending 1.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1244"></child>
+        </children>
+    </item>
+    <item nodeId="node-1244">
+        <command xml:space="preserve">listen</command>
+        <result xml:space="preserve">Cell
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1245"></child>
+        </children>
+    </item>
+    <item nodeId="node-1245">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1246"></child>
+        </children>
+    </item>
+    <item nodeId="node-1246">
+        <command xml:space="preserve">se</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1247"></child>
+        </children>
+    </item>
+    <item nodeId="node-1247">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1248"></child>
+        </children>
+    </item>
+    <item nodeId="node-1248">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Choice1
+Now at choice 1. Choice2a and Choice2b.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1249"></child>
+        </children>
+    </item>
+    <item nodeId="node-1249">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Choice2a
+Now at choice 2a. Ending1 and Choice3a.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>
