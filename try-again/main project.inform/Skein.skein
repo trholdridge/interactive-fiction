@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 
-<Skein rootNode="node-1216">
+<Skein rootNode="node-1002">
     <generator>Inform Mac Client (Inform version )</generator>
-    <item nodeId="node-1216">
+    <item nodeId="node-1002">
         <command xml:space="preserve">main project</command>
         <result xml:space="preserve">
 
@@ -18,50 +18,50 @@ This room is depressingly familiar. You've paced across every inch of the cold g
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1421"></child>
-            <child nodeId="node-1234"></child>
-            <child nodeId="node-1228"></child>
-            <child nodeId="node-1222"></child>
-            <child nodeId="node-1217"></child>
+        <children><child nodeId="node-1207"></child>
+            <child nodeId="node-1020"></child>
+            <child nodeId="node-1014"></child>
+            <child nodeId="node-1008"></child>
+            <child nodeId="node-1003"></child>
         </children>
     </item>
-    <item nodeId="node-1217">
+    <item nodeId="node-1003">
         <command xml:space="preserve">x door</command>
         <result xml:space="preserve">Imposing, unmarked, and definitely locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1218"></child>
+        <children><child nodeId="node-1004"></child>
         </children>
     </item>
-    <item nodeId="node-1218">
+    <item nodeId="node-1004">
         <command xml:space="preserve">x cot</command>
         <result xml:space="preserve">It has a lumpy mattress and a metal frame.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1219"></child>
+        <children><child nodeId="node-1005"></child>
         </children>
     </item>
-    <item nodeId="node-1219">
+    <item nodeId="node-1005">
         <command xml:space="preserve">x blankets</command>
         <result xml:space="preserve">Light blue linen. You make the bed neatly every day, for lack of anything better to do.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1220"></child>
+        <children><child nodeId="node-1006"></child>
         </children>
     </item>
-    <item nodeId="node-1220">
+    <item nodeId="node-1006">
         <command xml:space="preserve">x camera</command>
         <result xml:space="preserve">The camera is your constant companion. Day in and day out, it faithfully reports your movements to whoever it is that monitors them. When you first got here, you sometimes stared at its blinking blue light all night. Now, you rarely give it a second glance.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1221"></child>
+        <children><child nodeId="node-1007"></child>
         </children>
     </item>
-    <item nodeId="node-1221">
+    <item nodeId="node-1007">
         <command xml:space="preserve">take camera</command>
         <result xml:space="preserve">You can't reach it, and anyway it's fixed in place.
 
@@ -74,43 +74,43 @@ You register a blaring alarm sound that must have started sometime in the past m
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1222">
+    <item nodeId="node-1008">
         <command xml:space="preserve">x cot</command>
         <result xml:space="preserve">It has a lumpy mattress and a metal frame.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1223"></child>
+        <children><child nodeId="node-1009"></child>
         </children>
     </item>
-    <item nodeId="node-1223">
+    <item nodeId="node-1009">
         <command xml:space="preserve">x camera</command>
         <result xml:space="preserve">The camera is your constant companion. Day in and day out, it faithfully reports your movements to whoever it is that monitors them. When you first got here, you sometimes stared at its blinking blue light all night. Now, you rarely give it a second glance.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1224"></child>
+        <children><child nodeId="node-1010"></child>
         </children>
     </item>
-    <item nodeId="node-1224">
+    <item nodeId="node-1010">
         <command xml:space="preserve">x blanket</command>
         <result xml:space="preserve">Light blue linen. You make the bed neatly every day, for lack of anything better to do.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1225"></child>
+        <children><child nodeId="node-1011"></child>
         </children>
     </item>
-    <item nodeId="node-1225">
+    <item nodeId="node-1011">
         <command xml:space="preserve">x window</command>
         <result xml:space="preserve">It is small and lets in little light.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1226"></child>
+        <children><child nodeId="node-1012"></child>
         </children>
     </item>
-    <item nodeId="node-1226">
+    <item nodeId="node-1012">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">The cell door is locked. It cannot be opened from the inside.
 
@@ -122,10 +122,10 @@ You register a blaring alarm sound that must have started sometime in the past m
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1227"></child>
+        <children><child nodeId="node-1013"></child>
         </children>
     </item>
-    <item nodeId="node-1227">
+    <item nodeId="node-1013">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Hall1
@@ -133,43 +133,43 @@ Hall1
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1228">
+    <item nodeId="node-1014">
         <command xml:space="preserve">take camera</command>
         <result xml:space="preserve">You can't reach it, and anyway it's fixed in place.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1229"></child>
+        <children><child nodeId="node-1015"></child>
         </children>
     </item>
-    <item nodeId="node-1229">
+    <item nodeId="node-1015">
         <command xml:space="preserve">take blanket</command>
         <result xml:space="preserve">That's fixed in place.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1230"></child>
+        <children><child nodeId="node-1016"></child>
         </children>
     </item>
-    <item nodeId="node-1230">
+    <item nodeId="node-1016">
         <command xml:space="preserve">take cot</command>
         <result xml:space="preserve">That's fixed in place.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1231"></child>
+        <children><child nodeId="node-1017"></child>
         </children>
     </item>
-    <item nodeId="node-1231">
+    <item nodeId="node-1017">
         <command xml:space="preserve">take window</command>
         <result xml:space="preserve">That's fixed in place.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1232"></child>
+        <children><child nodeId="node-1018"></child>
         </children>
     </item>
-    <item nodeId="node-1232">
+    <item nodeId="node-1018">
         <command xml:space="preserve">listen</command>
         <result xml:space="preserve">Suddenly, the stark white light in the ceiling flickers out. The cell is pitch-black at first, but you can clearly hear the grating sound that your cell door makes when it retracts upward. The cooler air from the hall outside floods in.
 
@@ -179,57 +179,57 @@ You register a blaring alarm sound that must have started sometime in the past m
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1233"></child>
+        <children><child nodeId="node-1019"></child>
         </children>
     </item>
-    <item nodeId="node-1233">
+    <item nodeId="node-1019">
         <command xml:space="preserve">take door</command>
         <result xml:space="preserve">That's fixed in place.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1234">
+    <item nodeId="node-1020">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">The cell door is locked. It cannot be opened from the inside.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1288"></child>
-            <child nodeId="node-1283"></child>
-            <child nodeId="node-1275"></child>
-            <child nodeId="node-1235"></child>
+        <children><child nodeId="node-1074"></child>
+            <child nodeId="node-1069"></child>
+            <child nodeId="node-1061"></child>
+            <child nodeId="node-1021"></child>
         </children>
     </item>
-    <item nodeId="node-1235">
+    <item nodeId="node-1021">
         <command xml:space="preserve">x camera</command>
         <result xml:space="preserve">The camera is your constant companion. Day in and day out, it faithfully reports your movements to whoever it is that monitors them. When you first got here, you sometimes stared at its blinking blue light all night. Now, you rarely give it a second glance.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1271"></child>
-            <child nodeId="node-1236"></child>
+        <children><child nodeId="node-1057"></child>
+            <child nodeId="node-1022"></child>
         </children>
     </item>
-    <item nodeId="node-1236">
+    <item nodeId="node-1022">
         <command xml:space="preserve">x door</command>
         <result xml:space="preserve">Imposing, unmarked, and definitely locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1237"></child>
+        <children><child nodeId="node-1023"></child>
         </children>
     </item>
-    <item nodeId="node-1237">
+    <item nodeId="node-1023">
         <command xml:space="preserve">x window</command>
         <result xml:space="preserve">It is small and lets in little light.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1238"></child>
+        <children><child nodeId="node-1024"></child>
         </children>
     </item>
-    <item nodeId="node-1238">
+    <item nodeId="node-1024">
         <command xml:space="preserve">look</command>
         <result xml:space="preserve">Cell
 This room is depressingly familiar. You've paced across every inch of the cold gray concrete, stood on tiptoes to see out of the barred window, tossed and turned under the thin blanket on your cot. A small camera is embedded above the locked cell door on the north wall.
@@ -242,10 +242,10 @@ You register a blaring alarm sound that must have started sometime in the past m
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1239"></child>
+        <children><child nodeId="node-1025"></child>
         </children>
     </item>
-    <item nodeId="node-1239">
+    <item nodeId="node-1025">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 South Hall
@@ -253,19 +253,19 @@ The hall is flooded with red light and the sound of alarms. Your cell is one of 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1240"></child>
+        <children><child nodeId="node-1026"></child>
         </children>
     </item>
-    <item nodeId="node-1240">
+    <item nodeId="node-1026">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">It would be unwise to stay in this area. Guards will arrive soon to lock it down, as it has the highest concentration of prisoners.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1241"></child>
+        <children><child nodeId="node-1027"></child>
         </children>
     </item>
-    <item nodeId="node-1241">
+    <item nodeId="node-1027">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Intersection
@@ -273,10 +273,10 @@ Here, the narrow central hall of your cell's wing meets a wider corridor. The al
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1242"></child>
+        <children><child nodeId="node-1028"></child>
         </children>
     </item>
-    <item nodeId="node-1242">
+    <item nodeId="node-1028">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Corridor (west)
@@ -284,10 +284,10 @@ A wider hall with an arched ceiling. This is where you pass through regularly to
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1243"></child>
+        <children><child nodeId="node-1029"></child>
         </children>
     </item>
-    <item nodeId="node-1243">
+    <item nodeId="node-1029">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Alcove
@@ -297,10 +297,10 @@ Leaning against the wall of the alcove is a hatchet, and the archway south of yo
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1244"></child>
+        <children><child nodeId="node-1030"></child>
         </children>
     </item>
-    <item nodeId="node-1244">
+    <item nodeId="node-1030">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">
 Corridor (west)
@@ -308,10 +308,10 @@ A wider hall with an arched ceiling. This is where you pass through regularly to
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1245"></child>
+        <children><child nodeId="node-1031"></child>
         </children>
     </item>
-    <item nodeId="node-1245">
+    <item nodeId="node-1031">
         <command xml:space="preserve">nw</command>
         <result xml:space="preserve">
 Waiting Room
@@ -319,36 +319,36 @@ You've sat in the neat rows of seats many times, waiting for your shift to start
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1246"></child>
+        <children><child nodeId="node-1032"></child>
         </children>
     </item>
-    <item nodeId="node-1246">
+    <item nodeId="node-1032">
         <command xml:space="preserve">nw</command>
         <result xml:space="preserve">The wooden door stands in your way
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1247"></child>
+        <children><child nodeId="node-1033"></child>
         </children>
     </item>
-    <item nodeId="node-1247">
+    <item nodeId="node-1033">
         <command xml:space="preserve">break wooden door with hatchet</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1248"></child>
+        <children><child nodeId="node-1034"></child>
         </children>
     </item>
-    <item nodeId="node-1248">
+    <item nodeId="node-1034">
         <command xml:space="preserve">break wooden door</command>
         <result xml:space="preserve">You can't exactly punch through with your bare fist.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1249"></child>
+        <children><child nodeId="node-1035"></child>
         </children>
     </item>
-    <item nodeId="node-1249">
+    <item nodeId="node-1035">
         <command xml:space="preserve">se</command>
         <result xml:space="preserve">
 Corridor (west)
@@ -356,19 +356,19 @@ A wider hall with an arched ceiling. This is where you pass through regularly to
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1250"></child>
+        <children><child nodeId="node-1036"></child>
         </children>
     </item>
-    <item nodeId="node-1250">
+    <item nodeId="node-1036">
         <command xml:space="preserve">se</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1251"></child>
+        <children><child nodeId="node-1037"></child>
         </children>
     </item>
-    <item nodeId="node-1251">
+    <item nodeId="node-1037">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Alcove
@@ -378,19 +378,19 @@ Leaning against the wall of the alcove is a hatchet, and the archway south of yo
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1252"></child>
+        <children><child nodeId="node-1038"></child>
         </children>
     </item>
-    <item nodeId="node-1252">
+    <item nodeId="node-1038">
         <command xml:space="preserve">take hatchet</command>
         <result xml:space="preserve">Taken.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1253"></child>
+        <children><child nodeId="node-1039"></child>
         </children>
     </item>
-    <item nodeId="node-1253">
+    <item nodeId="node-1039">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">
 Corridor (west)
@@ -398,10 +398,10 @@ A wider hall with an arched ceiling. This is where you pass through regularly to
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1254"></child>
+        <children><child nodeId="node-1040"></child>
         </children>
     </item>
-    <item nodeId="node-1254">
+    <item nodeId="node-1040">
         <command xml:space="preserve">nw</command>
         <result xml:space="preserve">
 Waiting Room
@@ -409,28 +409,28 @@ You've sat in the neat rows of seats many times, waiting for your shift to start
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1255"></child>
+        <children><child nodeId="node-1041"></child>
         </children>
     </item>
-    <item nodeId="node-1255">
+    <item nodeId="node-1041">
         <command xml:space="preserve">x door</command>
         <result xml:space="preserve">A wooden door painted blue, outfitted with a heavy metal bolt. You could probably break it with the right implement.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1256"></child>
+        <children><child nodeId="node-1042"></child>
         </children>
     </item>
-    <item nodeId="node-1256">
+    <item nodeId="node-1042">
         <command xml:space="preserve">break wooden door with hatchet</command>
         <result xml:space="preserve">It takes several chops, but slowly you're able to hack through the door (at least, enough to fit through its splintered remains).
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1257"></child>
+        <children><child nodeId="node-1043"></child>
         </children>
     </item>
-    <item nodeId="node-1257">
+    <item nodeId="node-1043">
         <command xml:space="preserve">nw</command>
         <result xml:space="preserve">
 Data Mining
@@ -442,10 +442,10 @@ You can see a wooden door here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1258"></child>
+        <children><child nodeId="node-1044"></child>
         </children>
     </item>
-    <item nodeId="node-1258">
+    <item nodeId="node-1044">
         <command xml:space="preserve">up</command>
         <result xml:space="preserve">
 Data Mining (second floor)
@@ -453,10 +453,10 @@ There are a few empty guard posts here, normally ensuring that the prisoners bel
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1259"></child>
+        <children><child nodeId="node-1045"></child>
         </children>
     </item>
-    <item nodeId="node-1259">
+    <item nodeId="node-1045">
         <command xml:space="preserve">ne</command>
         <result xml:space="preserve">
 Catwalk (Data Mining)
@@ -466,10 +466,10 @@ Here, the catwalk emerges from the wall of the facility, and connects to a great
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1260"></child>
+        <children><child nodeId="node-1046"></child>
         </children>
     </item>
-    <item nodeId="node-1260">
+    <item nodeId="node-1046">
         <command xml:space="preserve">ne</command>
         <result xml:space="preserve">
 Catwalk (above the yard))
@@ -477,10 +477,10 @@ The catwalk is narrow and creaky. Far below, the yard is deserted, lit by emerge
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1261"></child>
+        <children><child nodeId="node-1047"></child>
         </children>
     </item>
-    <item nodeId="node-1261">
+    <item nodeId="node-1047">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Turret
@@ -488,10 +488,10 @@ This small balcony is attached precariously to the catwalk, and houses a deadly-
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1262"></child>
+        <children><child nodeId="node-1048"></child>
         </children>
     </item>
-    <item nodeId="node-1262">
+    <item nodeId="node-1048">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 Catwalk (above the yard))
@@ -499,10 +499,10 @@ The catwalk is narrow and creaky. Far below, the yard is deserted, lit by emerge
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1263"></child>
+        <children><child nodeId="node-1049"></child>
         </children>
     </item>
-    <item nodeId="node-1263">
+    <item nodeId="node-1049">
         <command xml:space="preserve">ne</command>
         <result xml:space="preserve">
 Control Tower
@@ -510,10 +510,10 @@ This is it, the literal and metaphorical center of the facility. All polished gl
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1264"></child>
+        <children><child nodeId="node-1050"></child>
         </children>
     </item>
-    <item nodeId="node-1264">
+    <item nodeId="node-1050">
         <command xml:space="preserve">down</command>
         <result xml:space="preserve">You drop to the first catwalk below without much difficulty. The next one takes a bit of a swinging leap, and with the final drop you feel a sharp pain in your ankle. Nevertheless, this might be your best chance to get out, and you step through the door, closing it behind you.
 
@@ -526,47 +526,47 @@ On the west and north walls are metal doors.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1265"></child>
+        <children><child nodeId="node-1051"></child>
         </children>
     </item>
-    <item nodeId="node-1265">
+    <item nodeId="node-1051">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Secret Hall
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1266"></child>
+        <children><child nodeId="node-1052"></child>
         </children>
     </item>
-    <item nodeId="node-1266">
+    <item nodeId="node-1052">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1267"></child>
+        <children><child nodeId="node-1053"></child>
         </children>
     </item>
-    <item nodeId="node-1267">
+    <item nodeId="node-1053">
         <command xml:space="preserve">721</command>
         <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1268"></child>
+        <children><child nodeId="node-1054"></child>
         </children>
     </item>
-    <item nodeId="node-1268">
+    <item nodeId="node-1054">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1269"></child>
+        <children><child nodeId="node-1055"></child>
         </children>
     </item>
-    <item nodeId="node-1269">
+    <item nodeId="node-1055">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">
 Control Room
@@ -578,10 +578,10 @@ On the west and north walls are metal doors.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1270"></child>
+        <children><child nodeId="node-1056"></child>
         </children>
     </item>
-    <item nodeId="node-1270">
+    <item nodeId="node-1056">
         <command xml:space="preserve">x screen</command>
         <result xml:space="preserve">You can't access anything without a passcode, which you of course don't know. The "sleep" screen of this overgrown computer is an abstracted map of the facility, scattered with rooms, halls, and doors with little numbers next to them.
 Intriguingly, the yard seems to be criss-crossed with paths that don't correspond to the catwalks.
@@ -589,25 +589,25 @@ Intriguingly, the yard seems to be criss-crossed with paths that don't correspon
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1271">
+    <item nodeId="node-1057">
         <command xml:space="preserve">x cot</command>
         <result xml:space="preserve">It has a lumpy mattress and a metal frame.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1272"></child>
+        <children><child nodeId="node-1058"></child>
         </children>
     </item>
-    <item nodeId="node-1272">
+    <item nodeId="node-1058">
         <command xml:space="preserve">x window</command>
         <result xml:space="preserve">It is small and lets in little light.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1273"></child>
+        <children><child nodeId="node-1059"></child>
         </children>
     </item>
-    <item nodeId="node-1273">
+    <item nodeId="node-1059">
         <command xml:space="preserve">x door</command>
         <result xml:space="preserve">Imposing, unmarked, and definitely locked.
 
@@ -619,10 +619,10 @@ You register a blaring alarm sound that must have started sometime in the past m
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1274"></child>
+        <children><child nodeId="node-1060"></child>
         </children>
     </item>
-    <item nodeId="node-1274">
+    <item nodeId="node-1060">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Hall1
@@ -630,43 +630,43 @@ Hall1
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1275">
+    <item nodeId="node-1061">
         <command xml:space="preserve">nn</command>
         <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1276"></child>
+        <children><child nodeId="node-1062"></child>
         </children>
     </item>
-    <item nodeId="node-1276">
+    <item nodeId="node-1062">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">The cell door is locked. It cannot be opened from the inside.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1277"></child>
+        <children><child nodeId="node-1063"></child>
         </children>
     </item>
-    <item nodeId="node-1277">
+    <item nodeId="node-1063">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">The cell door is locked. It cannot be opened from the inside.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1278"></child>
+        <children><child nodeId="node-1064"></child>
         </children>
     </item>
-    <item nodeId="node-1278">
+    <item nodeId="node-1064">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">The cell door is locked. It cannot be opened from the inside.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1279"></child>
+        <children><child nodeId="node-1065"></child>
         </children>
     </item>
-    <item nodeId="node-1279">
+    <item nodeId="node-1065">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">The cell door is locked. It cannot be opened from the inside.
 
@@ -678,10 +678,10 @@ You register a blaring alarm sound that must have started sometime in the past m
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1280"></child>
+        <children><child nodeId="node-1066"></child>
         </children>
     </item>
-    <item nodeId="node-1280">
+    <item nodeId="node-1066">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 South Hall
@@ -689,10 +689,10 @@ The hall is flooded with red light and the sound of alarms. Your cell is one of 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1281"></child>
+        <children><child nodeId="node-1067"></child>
         </children>
     </item>
-    <item nodeId="node-1281">
+    <item nodeId="node-1067">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Intersection
@@ -700,10 +700,10 @@ Here, the narrow central hall of your cell's wing meets a wider corridor. The al
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1282"></child>
+        <children><child nodeId="node-1068"></child>
         </children>
     </item>
-    <item nodeId="node-1282">
+    <item nodeId="node-1068">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 Corridor (east)
@@ -712,46 +712,46 @@ A wider hall with an arched ceiling. This is where you pass through regularly to
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1283">
+    <item nodeId="node-1069">
         <command xml:space="preserve">ne</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1284"></child>
+        <children><child nodeId="node-1070"></child>
         </children>
     </item>
-    <item nodeId="node-1284">
+    <item nodeId="node-1070">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Hall2
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1285"></child>
+        <children><child nodeId="node-1071"></child>
         </children>
     </item>
-    <item nodeId="node-1285">
+    <item nodeId="node-1071">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Intersection
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1286"></child>
+        <children><child nodeId="node-1072"></child>
         </children>
     </item>
-    <item nodeId="node-1286">
+    <item nodeId="node-1072">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 CorridorA
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1287"></child>
+        <children><child nodeId="node-1073"></child>
         </children>
     </item>
-    <item nodeId="node-1287">
+    <item nodeId="node-1073">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 Dead End
@@ -759,132 +759,132 @@ Dead End
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1288">
+    <item nodeId="node-1074">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">The cell door is locked. It cannot be opened from the inside.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1408"></child>
-            <child nodeId="node-1289"></child>
+        <children><child nodeId="node-1194"></child>
+            <child nodeId="node-1075"></child>
         </children>
     </item>
-    <item nodeId="node-1289">
+    <item nodeId="node-1075">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">The cell door is locked. It cannot be opened from the inside.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1300"></child>
-            <child nodeId="node-1290"></child>
+        <children><child nodeId="node-1086"></child>
+            <child nodeId="node-1076"></child>
         </children>
     </item>
-    <item nodeId="node-1290">
+    <item nodeId="node-1076">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 CorridorB
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1291"></child>
+        <children><child nodeId="node-1077"></child>
         </children>
     </item>
-    <item nodeId="node-1291">
+    <item nodeId="node-1077">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 CorridorC
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1292"></child>
+        <children><child nodeId="node-1078"></child>
         </children>
     </item>
-    <item nodeId="node-1292">
+    <item nodeId="node-1078">
         <command xml:space="preserve">nw</command>
         <result xml:space="preserve">
 Waiting Room
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1293"></child>
+        <children><child nodeId="node-1079"></child>
         </children>
     </item>
-    <item nodeId="node-1293">
+    <item nodeId="node-1079">
         <command xml:space="preserve">nw</command>
         <result xml:space="preserve">
 Data Mining
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1294"></child>
+        <children><child nodeId="node-1080"></child>
         </children>
     </item>
-    <item nodeId="node-1294">
+    <item nodeId="node-1080">
         <command xml:space="preserve">l</command>
         <result xml:space="preserve">Data Mining
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1295"></child>
+        <children><child nodeId="node-1081"></child>
         </children>
     </item>
-    <item nodeId="node-1295">
+    <item nodeId="node-1081">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Tracks
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1296"></child>
+        <children><child nodeId="node-1082"></child>
         </children>
     </item>
-    <item nodeId="node-1296">
+    <item nodeId="node-1082">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Tracks2
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1297"></child>
+        <children><child nodeId="node-1083"></child>
         </children>
     </item>
-    <item nodeId="node-1297">
+    <item nodeId="node-1083">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Entry
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1298"></child>
+        <children><child nodeId="node-1084"></child>
         </children>
     </item>
-    <item nodeId="node-1298">
+    <item nodeId="node-1084">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Vehicle Bay
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1299"></child>
+        <children><child nodeId="node-1085"></child>
         </children>
     </item>
-    <item nodeId="node-1299">
+    <item nodeId="node-1085">
         <command xml:space="preserve">listen</command>
         <result xml:space="preserve">Data Mining
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1300">
+    <item nodeId="node-1086">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">The cell door is locked. It cannot be opened from the inside.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1301"></child>
+        <children><child nodeId="node-1087"></child>
         </children>
     </item>
-    <item nodeId="node-1301">
+    <item nodeId="node-1087">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">The cell door is locked. It cannot be opened from the inside.
 
@@ -896,10 +896,10 @@ You register a blaring alarm sound that must have started sometime in the past m
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1302"></child>
+        <children><child nodeId="node-1088"></child>
         </children>
     </item>
-    <item nodeId="node-1302">
+    <item nodeId="node-1088">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 South Hall
@@ -907,10 +907,10 @@ The hall is flooded with red light and the sound of alarms. Your cell is one of 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1303"></child>
+        <children><child nodeId="node-1089"></child>
         </children>
     </item>
-    <item nodeId="node-1303">
+    <item nodeId="node-1089">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Intersection
@@ -918,11 +918,11 @@ Here, the narrow central hall of your cell's wing meets a wider corridor. The al
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1378"></child>
-            <child nodeId="node-1304"></child>
+        <children><child nodeId="node-1164"></child>
+            <child nodeId="node-1090"></child>
         </children>
     </item>
-    <item nodeId="node-1304">
+    <item nodeId="node-1090">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Corridor (west)
@@ -930,11 +930,11 @@ A wider hall with an arched ceiling. This is where you pass through regularly to
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1321"></child>
-            <child nodeId="node-1305"></child>
+        <children><child nodeId="node-1107"></child>
+            <child nodeId="node-1091"></child>
         </children>
     </item>
-    <item nodeId="node-1305">
+    <item nodeId="node-1091">
         <command xml:space="preserve">nw</command>
         <result xml:space="preserve">
 Waiting Room
@@ -942,20 +942,20 @@ You've sat in the neat rows of seats many times, waiting for your shift to start
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1306"></child>
+        <children><child nodeId="node-1092"></child>
         </children>
     </item>
-    <item nodeId="node-1306">
+    <item nodeId="node-1092">
         <command xml:space="preserve">se</command>
         <result xml:space="preserve">
 Corridor (west)
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1307"></child>
+        <children><child nodeId="node-1093"></child>
         </children>
     </item>
-    <item nodeId="node-1307">
+    <item nodeId="node-1093">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Alcove
@@ -965,29 +965,29 @@ Leaning against the wall of the alcove is a hatchet, and the archway south of yo
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1308"></child>
+        <children><child nodeId="node-1094"></child>
         </children>
     </item>
-    <item nodeId="node-1308">
+    <item nodeId="node-1094">
         <command xml:space="preserve">take hatchet</command>
         <result xml:space="preserve">Taken.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1309"></child>
+        <children><child nodeId="node-1095"></child>
         </children>
     </item>
-    <item nodeId="node-1309">
+    <item nodeId="node-1095">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">
 Corridor (west)
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1310"></child>
+        <children><child nodeId="node-1096"></child>
         </children>
     </item>
-    <item nodeId="node-1310">
+    <item nodeId="node-1096">
         <command xml:space="preserve">nw</command>
         <result xml:space="preserve">
 Waiting Room
@@ -995,19 +995,19 @@ You can see a seats and a wooden door here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1311"></child>
+        <children><child nodeId="node-1097"></child>
         </children>
     </item>
-    <item nodeId="node-1311">
+    <item nodeId="node-1097">
         <command xml:space="preserve">break door with hatchet</command>
         <result xml:space="preserve">It takes several chops, but slowly you're able to hack through the door (at least, enough to fit through its splintered remains).
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1312"></child>
+        <children><child nodeId="node-1098"></child>
         </children>
     </item>
-    <item nodeId="node-1312">
+    <item nodeId="node-1098">
         <command xml:space="preserve">nw</command>
         <result xml:space="preserve">
 Data Mining
@@ -1019,19 +1019,19 @@ You can see a wooden door here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1313"></child>
+        <children><child nodeId="node-1099"></child>
         </children>
     </item>
-    <item nodeId="node-1313">
+    <item nodeId="node-1099">
         <command xml:space="preserve">x booth</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1314"></child>
+        <children><child nodeId="node-1100"></child>
         </children>
     </item>
-    <item nodeId="node-1314">
+    <item nodeId="node-1100">
         <command xml:space="preserve">x booths</command>
         <result xml:space="preserve">In these booths, the prisoners" most important work takes place. Although they are locked right now, their interiors are almost ingrained in your sense memory.
 
@@ -1039,10 +1039,10 @@ Each is equipped with a hardbacked chair facing a large screen. Like the photobo
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1315"></child>
+        <children><child nodeId="node-1101"></child>
         </children>
     </item>
-    <item nodeId="node-1315">
+    <item nodeId="node-1101">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Trackway (south)
@@ -1050,10 +1050,10 @@ Here, a small platform sits at the side of an indoor tunnel. tracks for the secu
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1316"></child>
+        <children><child nodeId="node-1102"></child>
         </children>
     </item>
-    <item nodeId="node-1316">
+    <item nodeId="node-1102">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Trackway (north)
@@ -1061,10 +1061,10 @@ Although the tracks continue past this point, the west wall has another platform
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1317"></child>
+        <children><child nodeId="node-1103"></child>
         </children>
     </item>
-    <item nodeId="node-1317">
+    <item nodeId="node-1103">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Vehicle Bay
@@ -1078,10 +1078,10 @@ A pins-and-needles feeling envelopes you, and your vision goes dark.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1318"></child>
+        <children><child nodeId="node-1104"></child>
         </children>
     </item>
-    <item nodeId="node-1318">
+    <item nodeId="node-1104">
         <command xml:space="preserve">p</command>
         <result xml:space="preserve">Data Mining
 This is where you've spent most of your out-of-cell time. Sleek white booths are installed around the perimeter of the room. All of them are locked shut; they are kept under tight control during off hours. cameras are embedded in each corner, and blink in the same familiar way as the one in your cell.
@@ -1094,19 +1094,19 @@ That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1319"></child>
+        <children><child nodeId="node-1105"></child>
         </children>
     </item>
-    <item nodeId="node-1319">
+    <item nodeId="node-1105">
         <command xml:space="preserve"></command>
         <result xml:space="preserve">I beg your pardon?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1320"></child>
+        <children><child nodeId="node-1106"></child>
         </children>
     </item>
-    <item nodeId="node-1320">
+    <item nodeId="node-1106">
         <command xml:space="preserve">look</command>
         <result xml:space="preserve">Data Mining
 This is where you've spent most of your out-of-cell time. Sleek white booths are installed around the perimeter of the room. All of them are locked shut; they are kept under tight control during off hours. cameras are embedded in each corner, and blink in the same familiar way as the one in your cell.
@@ -1118,7 +1118,7 @@ You can see a wooden door here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1321">
+    <item nodeId="node-1107">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Alcove
@@ -1128,38 +1128,38 @@ Leaning against the wall of the alcove is a hatchet, and the archway south of yo
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1322"></child>
+        <children><child nodeId="node-1108"></child>
         </children>
     </item>
-    <item nodeId="node-1322">
+    <item nodeId="node-1108">
         <command xml:space="preserve">take hatchet</command>
         <result xml:space="preserve">Taken.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1323"></child>
+        <children><child nodeId="node-1109"></child>
         </children>
     </item>
-    <item nodeId="node-1323">
+    <item nodeId="node-1109">
         <command xml:space="preserve">nw</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1324"></child>
+        <children><child nodeId="node-1110"></child>
         </children>
     </item>
-    <item nodeId="node-1324">
+    <item nodeId="node-1110">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">
 Corridor (west)
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1325"></child>
+        <children><child nodeId="node-1111"></child>
         </children>
     </item>
-    <item nodeId="node-1325">
+    <item nodeId="node-1111">
         <command xml:space="preserve">nw</command>
         <result xml:space="preserve">
 Waiting Room
@@ -1167,19 +1167,19 @@ You've sat in the neat rows of seats many times, waiting for your shift to start
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1326"></child>
+        <children><child nodeId="node-1112"></child>
         </children>
     </item>
-    <item nodeId="node-1326">
+    <item nodeId="node-1112">
         <command xml:space="preserve">break door with hatchet</command>
         <result xml:space="preserve">It takes several chops, but slowly you're able to hack through the door (at least, enough to fit through its splintered remains).
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1327"></child>
+        <children><child nodeId="node-1113"></child>
         </children>
     </item>
-    <item nodeId="node-1327">
+    <item nodeId="node-1113">
         <command xml:space="preserve">nw</command>
         <result xml:space="preserve">
 Data Mining
@@ -1191,10 +1191,10 @@ You can see a wooden door here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1328"></child>
+        <children><child nodeId="node-1114"></child>
         </children>
     </item>
-    <item nodeId="node-1328">
+    <item nodeId="node-1114">
         <command xml:space="preserve">u</command>
         <result xml:space="preserve">
 Data Mining (second floor)
@@ -1202,19 +1202,19 @@ There are a few empty guard posts here, normally ensuring that the prisoners bel
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1329"></child>
+        <children><child nodeId="node-1115"></child>
         </children>
     </item>
-    <item nodeId="node-1329">
+    <item nodeId="node-1115">
         <command xml:space="preserve">d</command>
         <result xml:space="preserve">A strange impulse tells you not to go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1330"></child>
+        <children><child nodeId="node-1116"></child>
         </children>
     </item>
-    <item nodeId="node-1330">
+    <item nodeId="node-1116">
         <command xml:space="preserve">ne</command>
         <result xml:space="preserve">
 Catwalk (Data Mining)
@@ -1224,10 +1224,10 @@ Here, the catwalk emerges from the wall of the facility, and connects to a great
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1331"></child>
+        <children><child nodeId="node-1117"></child>
         </children>
     </item>
-    <item nodeId="node-1331">
+    <item nodeId="node-1117">
         <command xml:space="preserve">ne</command>
         <result xml:space="preserve">
 Catwalk (above the yard))
@@ -1235,10 +1235,10 @@ The catwalk is narrow and creaky. Far below, the yard is deserted, lit by emerge
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1332"></child>
+        <children><child nodeId="node-1118"></child>
         </children>
     </item>
-    <item nodeId="node-1332">
+    <item nodeId="node-1118">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Turret
@@ -1246,20 +1246,20 @@ This small balcony is attached precariously to the catwalk, and houses a deadly-
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1333"></child>
+        <children><child nodeId="node-1119"></child>
         </children>
     </item>
-    <item nodeId="node-1333">
+    <item nodeId="node-1119">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 Catwalk (above the yard))
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1334"></child>
+        <children><child nodeId="node-1120"></child>
         </children>
     </item>
-    <item nodeId="node-1334">
+    <item nodeId="node-1120">
         <command xml:space="preserve">ne</command>
         <result xml:space="preserve">
 Control Tower
@@ -1267,10 +1267,10 @@ This is it, the literal and metaphorical center of the facility. All polished gl
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1335"></child>
+        <children><child nodeId="node-1121"></child>
         </children>
     </item>
-    <item nodeId="node-1335">
+    <item nodeId="node-1121">
         <command xml:space="preserve">d</command>
         <result xml:space="preserve">You drop to the first catwalk below without much difficulty. The next one takes a bit of a swinging leap, and with the final drop you feel a sharp pain in your ankle. Nevertheless, this might be your best chance to get out, and you step through the door, closing it behind you.
 
@@ -1283,20 +1283,20 @@ On the west and north walls are metal doors.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1336"></child>
+        <children><child nodeId="node-1122"></child>
         </children>
     </item>
-    <item nodeId="node-1336">
+    <item nodeId="node-1122">
         <command xml:space="preserve">u</command>
         <result xml:space="preserve">
 Control Tower
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1337"></child>
+        <children><child nodeId="node-1123"></child>
         </children>
     </item>
-    <item nodeId="node-1337">
+    <item nodeId="node-1123">
         <command xml:space="preserve">d</command>
         <result xml:space="preserve">You drop to the first catwalk below without much difficulty. The next one takes a bit of a swinging leap, and with the final drop you feel a sharp pain in your ankle. Nevertheless, this might be your best chance to get out, and you step through the door, closing it behind you.
 
@@ -1305,10 +1305,10 @@ You can see a panel and a screen here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1338"></child>
+        <children><child nodeId="node-1124"></child>
         </children>
     </item>
-    <item nodeId="node-1338">
+    <item nodeId="node-1124">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Staircase
@@ -1316,19 +1316,19 @@ The top of a short staircase. Further down, you suspect you'll reach the facilit
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1339"></child>
+        <children><child nodeId="node-1125"></child>
         </children>
     </item>
-    <item nodeId="node-1339">
+    <item nodeId="node-1125">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">A strange impulse tells you not to go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1340"></child>
+        <children><child nodeId="node-1126"></child>
         </children>
     </item>
-    <item nodeId="node-1340">
+    <item nodeId="node-1126">
         <command xml:space="preserve">d</command>
         <result xml:space="preserve">
 Chapel Annex
@@ -1336,10 +1336,10 @@ I didn't get around to this room haha. Go north.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1341"></child>
+        <children><child nodeId="node-1127"></child>
         </children>
     </item>
-    <item nodeId="node-1341">
+    <item nodeId="node-1127">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Chapel
@@ -1353,19 +1353,19 @@ A pins-and-needles feeling envelopes you, and your vision goes dark.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1342"></child>
+        <children><child nodeId="node-1128"></child>
         </children>
     </item>
-    <item nodeId="node-1342">
+    <item nodeId="node-1128">
         <command xml:space="preserve"></command>
         <result xml:space="preserve">I beg your pardon?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1343"></child>
+        <children><child nodeId="node-1129"></child>
         </children>
     </item>
-    <item nodeId="node-1343">
+    <item nodeId="node-1129">
         <command xml:space="preserve">?</command>
         <result xml:space="preserve">Control Room
 You've never been here before, but you know exactly where you are. Here, near the top of an intimidating tower at the center of the facility, is the control room. Even before you were locked up, these sparkling achievements of technological advancement were known to you; they are admired by many outside of the facility (and even some inside it).
@@ -1376,19 +1376,19 @@ On the west and north walls are metal doors.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1344"></child>
+        <children><child nodeId="node-1130"></child>
         </children>
     </item>
-    <item nodeId="node-1344">
+    <item nodeId="node-1130">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">A strange impulse tells you not to go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1345"></child>
+        <children><child nodeId="node-1131"></child>
         </children>
     </item>
-    <item nodeId="node-1345">
+    <item nodeId="node-1131">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Secret Hall
@@ -1396,10 +1396,10 @@ The hallway winds downward for ages. Eventually, you arrive at the entrance to a
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1346"></child>
+        <children><child nodeId="node-1132"></child>
         </children>
     </item>
-    <item nodeId="node-1346">
+    <item nodeId="node-1132">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 Secret Tunnel
@@ -1407,10 +1407,10 @@ For a while longer, you walk east. You don't know where this tunnel leads, or wh
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1347"></child>
+        <children><child nodeId="node-1133"></child>
         </children>
     </item>
-    <item nodeId="node-1347">
+    <item nodeId="node-1133">
         <command xml:space="preserve">up</command>
         <result xml:space="preserve">
 Freedom
@@ -1422,10 +1422,10 @@ A pins-and-needles feeling envelopes you, and your vision goes dark.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1348"></child>
+        <children><child nodeId="node-1134"></child>
         </children>
     </item>
-    <item nodeId="node-1348">
+    <item nodeId="node-1134">
         <command xml:space="preserve">uh oh</command>
         <result xml:space="preserve">Data Mining
 This is where you've spent most of your out-of-cell time. Sleek white booths are installed around the perimeter of the room. All of them are locked shut; they are kept under tight control during off hours. cameras are embedded in each corner, and blink in the same familiar way as the one in your cell.
@@ -1436,10 +1436,10 @@ You can see a wooden door here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1349"></child>
+        <children><child nodeId="node-1135"></child>
         </children>
     </item>
-    <item nodeId="node-1349">
+    <item nodeId="node-1135">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Trackway (south)
@@ -1447,10 +1447,10 @@ Here, a small platform sits at the side of an indoor tunnel. tracks for the secu
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1350"></child>
+        <children><child nodeId="node-1136"></child>
         </children>
     </item>
-    <item nodeId="node-1350">
+    <item nodeId="node-1136">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Trackway (north)
@@ -1458,10 +1458,10 @@ Although the tracks continue past this point, the west wall has another platform
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1351"></child>
+        <children><child nodeId="node-1137"></child>
         </children>
     </item>
-    <item nodeId="node-1351">
+    <item nodeId="node-1137">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Vehicle Bay
@@ -1475,29 +1475,29 @@ A pins-and-needles feeling envelopes you, and your vision goes dark.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1352"></child>
+        <children><child nodeId="node-1138"></child>
         </children>
     </item>
-    <item nodeId="node-1352">
+    <item nodeId="node-1138">
         <command xml:space="preserve">look</command>
         <result xml:space="preserve">Intersection
 Here, the narrow central hall of your cell's wing meets a wider corridor. The alarms are still blaring, and the light still dim, but you've been this way before (albeit under close supervision). The corridor runs from east to west, and though you can't see far in either direction, you don't hear or see anyone else.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1353"></child>
+        <children><child nodeId="node-1139"></child>
         </children>
     </item>
-    <item nodeId="node-1353">
+    <item nodeId="node-1139">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">A strange impulse tells you not to go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1354"></child>
+        <children><child nodeId="node-1140"></child>
         </children>
     </item>
-    <item nodeId="node-1354">
+    <item nodeId="node-1140">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 Corridor (east)
@@ -1505,10 +1505,10 @@ A wider hall with an arched ceiling. This is where you pass through regularly to
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1355"></child>
+        <children><child nodeId="node-1141"></child>
         </children>
     </item>
-    <item nodeId="node-1355">
+    <item nodeId="node-1141">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">
 Storage Room
@@ -1516,28 +1516,28 @@ Dark and cluttered. Most of the boxes here are sealed; you probably shouldn't wa
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1356"></child>
+        <children><child nodeId="node-1142"></child>
         </children>
     </item>
-    <item nodeId="node-1356">
+    <item nodeId="node-1142">
         <command xml:space="preserve">take screwdrivaer</command>
         <result xml:space="preserve">Taken.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1357"></child>
+        <children><child nodeId="node-1143"></child>
         </children>
     </item>
-    <item nodeId="node-1357">
+    <item nodeId="node-1143">
         <command xml:space="preserve">i'</command>
         <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1358"></child>
+        <children><child nodeId="node-1144"></child>
         </children>
     </item>
-    <item nodeId="node-1358">
+    <item nodeId="node-1144">
         <command xml:space="preserve">i</command>
         <result xml:space="preserve">You are carrying:
   a screwdriver
@@ -1545,29 +1545,29 @@ Dark and cluttered. Most of the boxes here are sealed; you probably shouldn't wa
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1359"></child>
+        <children><child nodeId="node-1145"></child>
         </children>
     </item>
-    <item nodeId="node-1359">
+    <item nodeId="node-1145">
         <command xml:space="preserve">take ladder</command>
         <result xml:space="preserve">Taken.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1360"></child>
+        <children><child nodeId="node-1146"></child>
         </children>
     </item>
-    <item nodeId="node-1360">
+    <item nodeId="node-1146">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Corridor (east)
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1361"></child>
+        <children><child nodeId="node-1147"></child>
         </children>
     </item>
-    <item nodeId="node-1361">
+    <item nodeId="node-1147">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 Dead End
@@ -1575,10 +1575,10 @@ The corridor curves around toward the northeast, but it ends in a door which see
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1362"></child>
+        <children><child nodeId="node-1148"></child>
         </children>
     </item>
-    <item nodeId="node-1362">
+    <item nodeId="node-1148">
         <command xml:space="preserve">up</command>
         <result xml:space="preserve">You place the ladder in front of the door and climb up to the air vent. It has a metal grate covering it, but you unscrew the corners with your screwdriver and let it clatter to the ground. It's a tight fit, but you squeeze yourself into the vent.
 
@@ -1587,10 +1587,10 @@ A cramped space with cold air rushing through. The vent continues to the northea
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1363"></child>
+        <children><child nodeId="node-1149"></child>
         </children>
     </item>
-    <item nodeId="node-1363">
+    <item nodeId="node-1149">
         <command xml:space="preserve">ne</command>
         <result xml:space="preserve">
 Air Vent (intersection)
@@ -1598,10 +1598,10 @@ From here, the vent ends to the northeast and branches off to the south. The gra
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1364"></child>
+        <children><child nodeId="node-1150"></child>
         </children>
     </item>
-    <item nodeId="node-1364">
+    <item nodeId="node-1150">
         <command xml:space="preserve">ne</command>
         <result xml:space="preserve">
 Visitation
@@ -1611,20 +1611,20 @@ A door at the southeast, with a check-in machine next to it, leads to the phone 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1365"></child>
+        <children><child nodeId="node-1151"></child>
         </children>
     </item>
-    <item nodeId="node-1365">
+    <item nodeId="node-1151">
         <command xml:space="preserve">se</command>
         <result xml:space="preserve">
 Phone Room
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1366"></child>
+        <children><child nodeId="node-1152"></child>
         </children>
     </item>
-    <item nodeId="node-1366">
+    <item nodeId="node-1152">
         <command xml:space="preserve">nw</command>
         <result xml:space="preserve">
 Visitation
@@ -1632,10 +1632,10 @@ You can see a speakers and a check-in machine here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1367"></child>
+        <children><child nodeId="node-1153"></child>
         </children>
     </item>
-    <item nodeId="node-1367">
+    <item nodeId="node-1153">
         <command xml:space="preserve">ne</command>
         <result xml:space="preserve">
 Hall3
@@ -1643,10 +1643,10 @@ Yay more undefined rooms. Go north from here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1368"></child>
+        <children><child nodeId="node-1154"></child>
         </children>
     </item>
-    <item nodeId="node-1368">
+    <item nodeId="node-1154">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Power Source
@@ -1654,19 +1654,19 @@ The lights here are so far overhead and so sparse that the room is barely naviga
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1369"></child>
+        <children><child nodeId="node-1155"></child>
         </children>
     </item>
-    <item nodeId="node-1369">
+    <item nodeId="node-1155">
         <command xml:space="preserve">ne</command>
         <result xml:space="preserve">Sorry, but this area is still under construction. Unfortunately, this means that you might not have major choices for a decent section of the game, depending on the path you took to get here. Hopefully it's still enjoyable!
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1370"></child>
+        <children><child nodeId="node-1156"></child>
         </children>
     </item>
-    <item nodeId="node-1370">
+    <item nodeId="node-1156">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Hallway
@@ -1674,10 +1674,10 @@ This hallway heads west, toward the center of the facility. It ends at a doorway
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1371"></child>
+        <children><child nodeId="node-1157"></child>
         </children>
     </item>
-    <item nodeId="node-1371">
+    <item nodeId="node-1157">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Yard (east)
@@ -1687,10 +1687,10 @@ This section is fenced off, but you could definitely climb the chain-link to the
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1372"></child>
+        <children><child nodeId="node-1158"></child>
         </children>
     </item>
-    <item nodeId="node-1372">
+    <item nodeId="node-1158">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Yard (west)
@@ -1702,10 +1702,10 @@ A pins-and-needles feeling envelopes you, and your vision goes dark.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1373"></child>
+        <children><child nodeId="node-1159"></child>
         </children>
     </item>
-    <item nodeId="node-1373">
+    <item nodeId="node-1159">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">Memory Bank
 The room is bright and expansive, lined wall-to-wall with server stacks. Its sole occupant, a disheveled late-shift worker, is sitting between the stacks taking a nap. A pleasant chime from the overhead speakers jolts him awake.
@@ -1718,19 +1718,19 @@ Sitting in front of a portly computer, he drags a new file labeled "Power Outage
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1374"></child>
+        <children><child nodeId="node-1160"></child>
         </children>
     </item>
-    <item nodeId="node-1374">
+    <item nodeId="node-1160">
         <command xml:space="preserve"></command>
         <result xml:space="preserve">I beg your pardon?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1375"></child>
+        <children><child nodeId="node-1161"></child>
         </children>
     </item>
-    <item nodeId="node-1375">
+    <item nodeId="node-1161">
         <command xml:space="preserve">look</command>
         <result xml:space="preserve">
 
@@ -1742,20 +1742,20 @@ Sitting in front of a portly computer, he drags a new file labeled "Power Outage
 Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1376"></child>
+        <children><child nodeId="node-1162"></child>
         </children>
     </item>
-    <item nodeId="node-1376">
+    <item nodeId="node-1162">
         <command xml:space="preserve"></command>
         <result xml:space="preserve">Please give one of the answers above.
 
 Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1377"></child>
+        <children><child nodeId="node-1163"></child>
         </children>
     </item>
-    <item nodeId="node-1377">
+    <item nodeId="node-1163">
         <command xml:space="preserve">um</command>
         <result xml:space="preserve">Please give one of the answers above.
 
@@ -1763,7 +1763,7 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1378">
+    <item nodeId="node-1164">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 Corridor (east)
@@ -1771,11 +1771,11 @@ A wider hall with an arched ceiling. This is where you pass through regularly to
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1407"></child>
-            <child nodeId="node-1379"></child>
+        <children><child nodeId="node-1193"></child>
+            <child nodeId="node-1165"></child>
         </children>
     </item>
-    <item nodeId="node-1379">
+    <item nodeId="node-1165">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">
 Storage Room
@@ -1783,38 +1783,38 @@ Dark and cluttered. Most of the boxes here are sealed; you probably shouldn't wa
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1380"></child>
+        <children><child nodeId="node-1166"></child>
         </children>
     </item>
-    <item nodeId="node-1380">
+    <item nodeId="node-1166">
         <command xml:space="preserve">take ladder</command>
         <result xml:space="preserve">Taken.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1381"></child>
+        <children><child nodeId="node-1167"></child>
         </children>
     </item>
-    <item nodeId="node-1381">
+    <item nodeId="node-1167">
         <command xml:space="preserve">take screwdriver</command>
         <result xml:space="preserve">Taken.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1382"></child>
+        <children><child nodeId="node-1168"></child>
         </children>
     </item>
-    <item nodeId="node-1382">
+    <item nodeId="node-1168">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Corridor (east)
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1383"></child>
+        <children><child nodeId="node-1169"></child>
         </children>
     </item>
-    <item nodeId="node-1383">
+    <item nodeId="node-1169">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 Dead End
@@ -1822,10 +1822,10 @@ The corridor curves around toward the northeast, but it ends in a door which see
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1384"></child>
+        <children><child nodeId="node-1170"></child>
         </children>
     </item>
-    <item nodeId="node-1384">
+    <item nodeId="node-1170">
         <command xml:space="preserve">up</command>
         <result xml:space="preserve">You place the ladder in front of the door and climb up to the air vent. It has a metal grate covering it, but you unscrew the corners with your screwdriver and let it clatter to the ground. It's a tight fit, but you squeeze yourself into the vent.
 
@@ -1834,10 +1834,10 @@ A cramped space with cold air rushing through. The vent continues to the northea
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1385"></child>
+        <children><child nodeId="node-1171"></child>
         </children>
     </item>
-    <item nodeId="node-1385">
+    <item nodeId="node-1171">
         <command xml:space="preserve">ne</command>
         <result xml:space="preserve">
 Air Vent (intersection)
@@ -1845,10 +1845,10 @@ From here, the vent ends to the northeast and branches off to the south. The gra
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1386"></child>
+        <children><child nodeId="node-1172"></child>
         </children>
     </item>
-    <item nodeId="node-1386">
+    <item nodeId="node-1172">
         <command xml:space="preserve">ne</command>
         <result xml:space="preserve">
 Visitation
@@ -1858,11 +1858,11 @@ A door at the southeast, with a check-in machine next to it, leads to the phone 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1401"></child>
-            <child nodeId="node-1387"></child>
+        <children><child nodeId="node-1187"></child>
+            <child nodeId="node-1173"></child>
         </children>
     </item>
-    <item nodeId="node-1387">
+    <item nodeId="node-1173">
         <command xml:space="preserve">nw</command>
         <result xml:space="preserve">
 Guard Room
@@ -1872,10 +1872,10 @@ Strangely, a ladder with metal rungs is bolted into the corner, where it descend
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1388"></child>
+        <children><child nodeId="node-1174"></child>
         </children>
     </item>
-    <item nodeId="node-1388">
+    <item nodeId="node-1174">
         <command xml:space="preserve">down</command>
         <result xml:space="preserve">
 Tunnel
@@ -1883,10 +1883,10 @@ You never knew that tunnels existed beneath the facility. The walls are rough st
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1389"></child>
+        <children><child nodeId="node-1175"></child>
         </children>
     </item>
-    <item nodeId="node-1389">
+    <item nodeId="node-1175">
         <command xml:space="preserve">nw</command>
         <result xml:space="preserve">
 Tunnel (continued)
@@ -1894,10 +1894,10 @@ You walk for several minutes, the tunnel occasionally turning slightly. Finally,
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1390"></child>
+        <children><child nodeId="node-1176"></child>
         </children>
     </item>
-    <item nodeId="node-1390">
+    <item nodeId="node-1176">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Control Tower Base
@@ -1907,10 +1907,10 @@ An unoccupied security checkpoint is set up in front of the main door, and a spi
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1391"></child>
+        <children><child nodeId="node-1177"></child>
         </children>
     </item>
-    <item nodeId="node-1391">
+    <item nodeId="node-1177">
         <command xml:space="preserve">up</command>
         <result xml:space="preserve">
 Control Room
@@ -1922,10 +1922,10 @@ On the west and north walls are metal doors.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1392"></child>
+        <children><child nodeId="node-1178"></child>
         </children>
     </item>
-    <item nodeId="node-1392">
+    <item nodeId="node-1178">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Secret Hall
@@ -1933,10 +1933,10 @@ The hallway winds downward for ages. Eventually, you arrive at the entrance to a
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1393"></child>
+        <children><child nodeId="node-1179"></child>
         </children>
     </item>
-    <item nodeId="node-1393">
+    <item nodeId="node-1179">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 Secret Tunnel
@@ -1944,10 +1944,10 @@ For a while longer, you walk east. You don't know where this tunnel leads, or wh
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1394"></child>
+        <children><child nodeId="node-1180"></child>
         </children>
     </item>
-    <item nodeId="node-1394">
+    <item nodeId="node-1180">
         <command xml:space="preserve">up</command>
         <result xml:space="preserve">
 Freedom
@@ -1959,19 +1959,19 @@ A pins-and-needles feeling envelopes you, and your vision goes dark.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1395"></child>
+        <children><child nodeId="node-1181"></child>
         </children>
     </item>
-    <item nodeId="node-1395">
+    <item nodeId="node-1181">
         <command xml:space="preserve"></command>
         <result xml:space="preserve">I beg your pardon?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1396"></child>
+        <children><child nodeId="node-1182"></child>
         </children>
     </item>
-    <item nodeId="node-1396">
+    <item nodeId="node-1182">
         <command xml:space="preserve">look</command>
         <result xml:space="preserve">Control Room
 You've never been here before, but you know exactly where you are. Here, near the top of an intimidating tower at the center of the facility, is the control room. Even before you were locked up, these sparkling achievements of technological advancement were known to you; they are admired by many outside of the facility (and even some inside it).
@@ -1982,10 +1982,10 @@ On the west and north walls are metal doors.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1397"></child>
+        <children><child nodeId="node-1183"></child>
         </children>
     </item>
-    <item nodeId="node-1397">
+    <item nodeId="node-1183">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Staircase
@@ -1993,10 +1993,10 @@ The top of a short staircase. Further down, you suspect you'll reach the facilit
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1398"></child>
+        <children><child nodeId="node-1184"></child>
         </children>
     </item>
-    <item nodeId="node-1398">
+    <item nodeId="node-1184">
         <command xml:space="preserve">down</command>
         <result xml:space="preserve">
 Chapel Annex
@@ -2004,10 +2004,10 @@ I didn't get around to this room haha. Go north.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1399"></child>
+        <children><child nodeId="node-1185"></child>
         </children>
     </item>
-    <item nodeId="node-1399">
+    <item nodeId="node-1185">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Chapel
@@ -2021,10 +2021,10 @@ A pins-and-needles feeling envelopes you, and your vision goes dark.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1400"></child>
+        <children><child nodeId="node-1186"></child>
         </children>
     </item>
-    <item nodeId="node-1400">
+    <item nodeId="node-1186">
         <command xml:space="preserve">look</command>
         <result xml:space="preserve">Visitation
 Although it's as cold and empty as the rest of the facility right now, and looks foreboding under the red light, this room is the only one that can be downright joyous at times. Here, you can greet friends and family, even if the pane of polished glass bisecting the room prevents real contact. The pane is dotted with two-way speakers, separated by plastic dividers for a measly amount of privacy.
@@ -2034,7 +2034,7 @@ A door at the southeast, with a check-in machine next to it, leads to the phone 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1401">
+    <item nodeId="node-1187">
         <command xml:space="preserve">ne</command>
         <result xml:space="preserve">Power SourceYard (west)
 Hall3
@@ -2042,10 +2042,10 @@ Yay more undefined rooms. Go north from here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1402"></child>
+        <children><child nodeId="node-1188"></child>
         </children>
     </item>
-    <item nodeId="node-1402">
+    <item nodeId="node-1188">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Power Source
@@ -2053,10 +2053,10 @@ The lights here are so far overhead and so sparse that the room is barely naviga
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1403"></child>
+        <children><child nodeId="node-1189"></child>
         </children>
     </item>
-    <item nodeId="node-1403">
+    <item nodeId="node-1189">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">Yard (west)
 Hallway
@@ -2064,10 +2064,10 @@ This hallway heads west, toward the center of the facility. It ends at a doorway
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1404"></child>
+        <children><child nodeId="node-1190"></child>
         </children>
     </item>
-    <item nodeId="node-1404">
+    <item nodeId="node-1190">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Yard (east)
@@ -2077,10 +2077,10 @@ This section is fenced off, but you could definitely climb the chain-link to the
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1405"></child>
+        <children><child nodeId="node-1191"></child>
         </children>
     </item>
-    <item nodeId="node-1405">
+    <item nodeId="node-1191">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">Yard (west)
 Yard (west)
@@ -2092,10 +2092,10 @@ A pins-and-needles feeling envelopes you, and your vision goes dark.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1406"></child>
+        <children><child nodeId="node-1192"></child>
         </children>
     </item>
-    <item nodeId="node-1406">
+    <item nodeId="node-1192">
         <command xml:space="preserve">look</command>
         <result xml:space="preserve">Power SourceYard (west)RunoffVisitationPower SourceYard (west)RunoffControl RoomChapel
 Visitation
@@ -2106,7 +2106,7 @@ A door at the southeast, with a check-in machine next to it, leads to the phone 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1407">
+    <item nodeId="node-1193">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 Dead End
@@ -2115,124 +2115,124 @@ The corridor curves around toward the northeast, but it ends in a door which see
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1408">
+    <item nodeId="node-1194">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1409"></child>
+        <children><child nodeId="node-1195"></child>
         </children>
     </item>
-    <item nodeId="node-1409">
+    <item nodeId="node-1195">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Cell2
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1410"></child>
+        <children><child nodeId="node-1196"></child>
         </children>
     </item>
-    <item nodeId="node-1410">
+    <item nodeId="node-1196">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1411"></child>
+        <children><child nodeId="node-1197"></child>
         </children>
     </item>
-    <item nodeId="node-1411">
+    <item nodeId="node-1197">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 Hall2
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1412"></child>
+        <children><child nodeId="node-1198"></child>
         </children>
     </item>
-    <item nodeId="node-1412">
+    <item nodeId="node-1198">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Intersection
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1413"></child>
+        <children><child nodeId="node-1199"></child>
         </children>
     </item>
-    <item nodeId="node-1413">
+    <item nodeId="node-1199">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 CorridorA
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1414"></child>
+        <children><child nodeId="node-1200"></child>
         </children>
     </item>
-    <item nodeId="node-1414">
+    <item nodeId="node-1200">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Intersection
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1415"></child>
+        <children><child nodeId="node-1201"></child>
         </children>
     </item>
-    <item nodeId="node-1415">
+    <item nodeId="node-1201">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 CorridorB
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1416"></child>
+        <children><child nodeId="node-1202"></child>
         </children>
     </item>
-    <item nodeId="node-1416">
+    <item nodeId="node-1202">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 CorridorC
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1417"></child>
+        <children><child nodeId="node-1203"></child>
         </children>
     </item>
-    <item nodeId="node-1417">
+    <item nodeId="node-1203">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1418"></child>
+        <children><child nodeId="node-1204"></child>
         </children>
     </item>
-    <item nodeId="node-1418">
+    <item nodeId="node-1204">
         <command xml:space="preserve">nw</command>
         <result xml:space="preserve">
 Waiting Room
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1419"></child>
+        <children><child nodeId="node-1205"></child>
         </children>
     </item>
-    <item nodeId="node-1419">
+    <item nodeId="node-1205">
         <command xml:space="preserve">nw</command>
         <result xml:space="preserve">
 Data Mining
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1420"></child>
+        <children><child nodeId="node-1206"></child>
         </children>
     </item>
-    <item nodeId="node-1420">
+    <item nodeId="node-1206">
         <command xml:space="preserve">up</command>
         <result xml:space="preserve">
 Data Mining2
@@ -2240,38 +2240,38 @@ Data Mining2
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1421">
+    <item nodeId="node-1207">
         <command xml:space="preserve">look</command>
         <result xml:space="preserve">Cell
 This room is depressingly familiar. You've paced across every inch of the cool gray concrete, stood on tiptoes to see out of the barred window, tossed and turned under the thin blankets on your cot. Perched above the locked door on the cell's north wall, a small camera is embedded in the wall.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1422"></child>
+        <children><child nodeId="node-1208"></child>
         </children>
     </item>
-    <item nodeId="node-1422">
+    <item nodeId="node-1208">
         <command xml:space="preserve">listen</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1423"></child>
+        <children><child nodeId="node-1209"></child>
         </children>
     </item>
-    <item nodeId="node-1423">
+    <item nodeId="node-1209">
         <command xml:space="preserve">listen</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1424"></child>
+        <children><child nodeId="node-1210"></child>
         </children>
     </item>
-    <item nodeId="node-1424">
+    <item nodeId="node-1210">
         <command xml:space="preserve">listen</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1425"></child>
+        <children><child nodeId="node-1211"></child>
         </children>
     </item>
-    <item nodeId="node-1425">
+    <item nodeId="node-1211">
         <command xml:space="preserve">listen</command>
         <result xml:space="preserve">Suddenly, the stark white light in the ceiling flickers out. The cell is pitch-black at first, but you can clearly hear the grating sound that your cell door makes when it retracts upward. The cooler air from the hall outside floods in.
 Just as your eyes begin to adjust, an eerie red emergency light fades up. The dim light confirms what you heard and felt: the door is open. Above it, the camera blinks back on, and glimmers tauntingly as you stare at it.
