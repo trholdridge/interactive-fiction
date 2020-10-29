@@ -1,0 +1,4 @@
+
+STATUS: inactive, incomplete
+
+one of my first IF attempts. basically just a house where you can leave, hop down a short cliff, walk into town, and be prevented from coming back because you can't scale the cliff (spoilers, sorry).

@@ -1,0 +1,3 @@
+STATUS: active, incomplete
+
+just a ~chill vibes~ parser game. mostly for me to play around with randomness, scenery, tables, weather, and other things I want to test out. you wake up in a field before dawn and explore the area around you, while being obnoxiously introspective.

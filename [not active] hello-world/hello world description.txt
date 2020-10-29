@@ -1,0 +1,3 @@
+STATUS: inactive, complete
+
+just a lil hello world program. it's very simple, so even though there's probably mistakes I am marking it complete. not interested in adding more.

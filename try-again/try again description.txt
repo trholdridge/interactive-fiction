@@ -1,0 +1,5 @@
+STATUS: active, incomplete
+
+you are an escaped prisoner trying to make your out of the facility you've been held in. mediocre worldbuilding and inform 7 recursion ensue. started as main project for summer course, and I am slowly expanding it.
+
+the goal is to complete all of the rooms I originally planned, and have a few more puzzle-like (or at least interactive) elements. currently it's in a "rough draft" phase, but the central mechanic works, which was a huge victory and super fun to implement.

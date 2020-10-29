@@ -1,0 +1,5 @@
+STATUS: active, incomplete
+
+for now this is complete. it's just a support document for my main game, Try Again. I tested out some cool inform 7 recursion and got the main mechanism for Try Again to work.
+
+in the future, I may come back and make this more robust, so that it works for similarly recursive games of unspecified size.
