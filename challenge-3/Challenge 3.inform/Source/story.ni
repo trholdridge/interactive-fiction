@@ -3,6 +3,7 @@
 When play begins:
 	now the time of day is 4:30 AM; now the right hand status line is "[time of day]"; say "You stir from a short night's sleep (maybe more of a long nap). It is still the wee hours of the morning, but you can make out your surroundings in silhouette." 
 
+[*************** sunrise events ***************]
 At 5:06 AM:
 	say "You see a slow lightening of the sky to the east. Above you, stars are still splashed across the darkness."
 	
@@ -14,7 +15,21 @@ At 6:10 AM:
 	
 At 6:35 AM: 
 	say "You look up, and notice you can no longer see any stars. A brilliant blue sky envelopes this little field."
+	
+[*************** random atmospheric descriptions ***************]
+Every turn when a random chance of 1 in 7 succeeds:
+	choose a random row in the Table of Atmospheric Descriptions;
+	say "[event entry][paragraph break]"
 
+Table of Atmospheric Descriptions
+event
+"A gentle wind rustles through the grass and tickles your neck."
+"In your peripheral vision, a moth flits by."
+"The persistent chirp of a cricket pierces the air."
+"A duck quacks abruptly from weirdly close by."
+"A twig snaps under your feet as you shift your weight."
+
+[*************** rooms ***************]
 Field C is a room. The printed name of Field C is "The Field (center)". The picnic blanket, the telescope, and the picnic basket are in Field C. "A lush expanse of tall grass interspersed with wildflowers. Your [picnic blanket] is spread across the ground, and standing on top is the [telescope] you've had for years. The telescope, as well as the woven [picnic basket] next to it, accumulated dew while you were asleep."
 
 Instead of examining the telescope:
